@@ -1,0 +1,15 @@
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  unsigned long time = millis(); // get the current time in milliseconds
+  int sensorValue = analogRead(A0);
+  Serial.print(time);
+  Serial.print(",");
+  Serial.print(sensorValue);
+  Serial.println();
+  delay(100);
+}
+
+#save this in .ino format. This is an arduino code.
