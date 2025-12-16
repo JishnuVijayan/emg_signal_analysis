@@ -20,7 +20,7 @@ import threading
 model = load("random_forest_new2.joblib")
 
 # Set up serial communication with Arduino
-ser = serial.Serial('COM5', 9600) # Replace 'COMX' with the appropriate port
+ser = serial.Serial('COM4', 9600) # Replace 'COMX' with the appropriate port
 
 # Initialize the EMG filter
 filter = e.EMG_filter(sample_frequency=100, range_=0.1, min_EMG_frequency=25, max_EMG_frequency=600,
@@ -76,8 +76,9 @@ try:
             time_stamp, emg_value = map(float, raw_data.split(','))
             # Make prediction
             time_prediction, filtered_emg, movement_prediction = predict_hand_movement(time_stamp, emg_value)
+            print("Time:", time_stamp, "Raw EMG:", emg_value, "Filtered EMG:", filtered_emg, "Prediction:", movement_prediction)
             if movement_prediction == 1:
-                print("Hand is moving")
+                print("Muscle is Activated")
                 if not is_video_open:
                     consecutive_count += 1
                     if consecutive_count == 10:

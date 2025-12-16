@@ -12,7 +12,7 @@ import serial
 ser = serial.Serial('COM3', 9600)
 
 # Open text file to store the received data
-with open("04BR.txt", 'w') as text_file:
+with open("new data collection sayamandhhh.txt", 'w') as text_file:
     while True:
         # Read serial data from Arduino
         data = ser.readline().decode('utf-8').strip()

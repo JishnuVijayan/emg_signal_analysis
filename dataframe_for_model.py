@@ -57,13 +57,13 @@ import pandas as pd
 combined_data = pd.DataFrame()
 
 # Loop over the file names
-for i in range(1, 6):
+for i in range(1, 8):
     # Read the data from the file
-    file_name = f"moredata0{i}.txt"
+    file_name = f"handright0{i}.txt"
     data = pd.read_csv(file_name, sep=',', header=None, names=['time', 'value'])
     
     # Append the data to the combined DataFrame
     combined_data = pd.concat([combined_data, data])
 
 # Save the combined data to a new file
-combined_data.to_csv("combined_rawdata.csv", index=False)
+combined_data.to_csv("combined_raw_right_data.csv", index=False)

@@ -107,6 +107,7 @@ class PkPk(object):
         else:
             return to_return
 
+
     def find_peaks(self):
         #cannot find another peak of oposite concavity until min_pk_gap data points past? 
         pass

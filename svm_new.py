@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  9 21:19:08 2024
-
-@author: jishn
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -24,13 +17,6 @@ df = df.dropna()
 df.loc[df.gesture == "Hand is at Rest", 'gesture'] = 0
 df.loc[df.gesture == "Hand is Moving", 'gesture'] = 1
 
-#print(df.head())
-print("\n")
-print("\n")
-print("\n")
-print("\n")
-
-
 #Setting Y value which is dependent value that we are going to predict
 Y = df["gesture"].values
 
@@ -48,9 +34,16 @@ X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size = 0.2, rando
 #random_state=None splits dataset randomly every time
 
 
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import StandardScaler
 
-model = RandomForestClassifier(n_estimators = 10, random_state = 20)
+sc_X = StandardScaler()
+X_train = sc_X.fit_transform(X_train)
+X_test = sc_X.transform(X_test)
+
+
+from sklearn.svm import SVC
+
+model = SVC()
 
 model.fit(X_train, y_train)
 
@@ -60,26 +53,34 @@ prediction_test = model.predict(X_test)
 
 
 from sklearn import metrics
-from sklearn.metrics import confusion_matrix, classification_report 
+from sklearn.metrics import confusion_matrix, classification_report
 #comparing prediction of y_test and prediction_test for calculating accuray
+print("\n")
+print("\n")
+print("\n")
 print("Accuracy = ",metrics.accuracy_score(y_test, prediction_test))
-print("\n Confusion matrix: ")
+print("\n Confusion matrix:")
 print(confusion_matrix(y_test, prediction_test))
-print("\n Classification report: ")
+print("\n classification report: ")
 print(classification_report(y_test, prediction_test))
 
 
+
+
+"""
 feature_list = list(X.columns)
 feature_imp = pd.Series(model.feature_importances_, index = feature_list).sort_values(ascending=False)
 print(feature_imp)
+"""
 
 from joblib import dump
 
-filename = "new_working_random_forest_with_more_data.joblib"
+filename = "new_svm_model_with_more_data.joblib"
 
 dump(model, filename)
-"""
+
 from sklearn.preprocessing import StandardScaler
+
 
 # Assuming X_train is your training data
 scaler = StandardScaler()
@@ -87,4 +88,3 @@ scaler.fit(X_train)
 
 # Save the scaler
 dump(scaler, 'scaler_new.joblib')
-"""

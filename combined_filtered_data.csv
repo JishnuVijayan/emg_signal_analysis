@@ -1,0 +1,3155 @@
+time,filtered_emg,gesture
+0.0,-1,Hand is at Rest
+0.1,-1,Hand is at Rest
+0.2,-1,Hand is at Rest
+0.301,-1,Hand is at Rest
+0.401,8,Hand is at Rest
+0.501,12,Hand is at Rest
+0.602,16,Hand is at Rest
+0.702,18,Hand is at Rest
+0.802,24,Hand is at Rest
+0.903,39,Hand is at Rest
+1.003,41,Hand is at Rest
+1.103,40,Hand is at Rest
+1.205,54,Hand is Moving
+1.305,60,Hand is Moving
+1.405,60,Hand is Moving
+1.506,61,Hand is Moving
+1.606,60,Hand is Moving
+1.707,68,Hand is Moving
+1.807,65,Hand is Moving
+1.907,52,Hand is at Rest
+2.009,60,Hand is Moving
+2.109,69,Hand is Moving
+2.209,71,Hand is Moving
+2.31,82,Hand is Moving
+2.41,95,Hand is Moving
+2.51,98,Hand is Moving
+2.611,101,Hand is Moving
+2.711,93,Hand is Moving
+2.811,93,Hand is Moving
+2.913,95,Hand is Moving
+3.013,91,Hand is Moving
+3.113,80,Hand is Moving
+3.214,63,Hand is Moving
+3.314,46,Hand is at Rest
+3.415,30,Hand is at Rest
+3.515,24,Hand is at Rest
+3.615,18,Hand is at Rest
+3.717,18,Hand is at Rest
+3.817,20,Hand is at Rest
+3.917,22,Hand is at Rest
+4.018,26,Hand is at Rest
+4.118,38,Hand is at Rest
+4.218,44,Hand is at Rest
+4.319,51,Hand is at Rest
+4.419,52,Hand is at Rest
+4.52,60,Hand is Moving
+4.621,60,Hand is Moving
+4.721,64,Hand is Moving
+4.822,60,Hand is Moving
+4.922,58,Hand is Moving
+5.022,49,Hand is at Rest
+5.123,45,Hand is at Rest
+5.223,46,Hand is at Rest
+5.323,46,Hand is at Rest
+5.425,52,Hand is at Rest
+5.525,53,Hand is Moving
+5.625,66,Hand is Moving
+5.726,76,Hand is Moving
+5.826,83,Hand is Moving
+5.926,86,Hand is Moving
+6.027,86,Hand is Moving
+6.127,77,Hand is Moving
+6.228,74,Hand is Moving
+6.329,70,Hand is Moving
+6.429,64,Hand is Moving
+6.53,54,Hand is Moving
+6.63,41,Hand is at Rest
+6.73,28,Hand is at Rest
+6.831,20,Hand is at Rest
+6.931,14,Hand is at Rest
+7.032,13,Hand is at Rest
+7.133,13,Hand is at Rest
+7.233,10,Hand is at Rest
+7.333,7,Hand is at Rest
+7.434,9,Hand is at Rest
+7.534,10,Hand is at Rest
+7.634,15,Hand is at Rest
+7.735,21,Hand is at Rest
+7.835,22,Hand is at Rest
+7.937,31,Hand is at Rest
+8.037,38,Hand is at Rest
+8.137,46,Hand is at Rest
+8.238,51,Hand is at Rest
+8.338,62,Hand is Moving
+8.438,59,Hand is Moving
+8.539,67,Hand is Moving
+8.639,64,Hand is Moving
+8.74,63,Hand is Moving
+8.841,64,Hand is Moving
+8.941,60,Hand is Moving
+9.041,64,Hand is Moving
+9.142,57,Hand is Moving
+9.242,63,Hand is Moving
+9.342,69,Hand is Moving
+9.443,83,Hand is Moving
+9.544,86,Hand is Moving
+9.645,93,Hand is Moving
+9.745,92,Hand is Moving
+9.845,93,Hand is Moving
+9.946,89,Hand is Moving
+10.046,78,Hand is Moving
+10.146,78,Hand is Moving
+10.247,68,Hand is Moving
+10.348,54,Hand is Moving
+10.448,38,Hand is at Rest
+10.549,26,Hand is at Rest
+10.649,17,Hand is at Rest
+10.749,13,Hand is at Rest
+10.85,10,Hand is at Rest
+10.951,9,Hand is at Rest
+11.052,8,Hand is at Rest
+11.152,8,Hand is at Rest
+11.252,7,Hand is at Rest
+11.353,5,Hand is at Rest
+11.453,5,Hand is at Rest
+11.554,5,Hand is at Rest
+11.655,5,Hand is at Rest
+11.755,6,Hand is at Rest
+11.855,5,Hand is at Rest
+11.956,6,Hand is at Rest
+12.056,7,Hand is at Rest
+12.156,7,Hand is at Rest
+12.258,8,Hand is at Rest
+12.358,9,Hand is at Rest
+12.459,11,Hand is at Rest
+12.559,13,Hand is at Rest
+12.659,14,Hand is at Rest
+12.76,15,Hand is at Rest
+12.861,20,Hand is at Rest
+12.961,28,Hand is at Rest
+13.062,28,Hand is at Rest
+13.162,36,Hand is at Rest
+13.262,35,Hand is at Rest
+13.363,39,Hand is at Rest
+13.464,41,Hand is at Rest
+13.564,47,Hand is at Rest
+13.665,48,Hand is at Rest
+13.765,48,Hand is at Rest
+13.865,53,Hand is Moving
+13.966,52,Hand is at Rest
+14.067,55,Hand is Moving
+14.168,56,Hand is Moving
+14.268,65,Hand is Moving
+14.368,65,Hand is Moving
+14.469,74,Hand is Moving
+14.569,79,Hand is Moving
+14.67,89,Hand is Moving
+14.771,95,Hand is Moving
+14.871,94,Hand is Moving
+14.971,91,Hand is Moving
+15.072,90,Hand is Moving
+15.172,87,Hand is Moving
+15.272,82,Hand is Moving
+15.374,81,Hand is Moving
+15.474,69,Hand is Moving
+15.575,55,Hand is Moving
+15.675,43,Hand is at Rest
+15.775,35,Hand is at Rest
+15.876,28,Hand is at Rest
+15.977,22,Hand is at Rest
+16.077,19,Hand is at Rest
+16.178,14,Hand is at Rest
+16.278,10,Hand is at Rest
+16.378,6,Hand is at Rest
+16.479,5,Hand is at Rest
+16.58,15,Hand is at Rest
+16.68,15,Hand is at Rest
+16.781,23,Hand is at Rest
+16.881,27,Hand is at Rest
+16.982,37,Hand is at Rest
+17.082,48,Hand is at Rest
+17.183,55,Hand is Moving
+17.284,60,Hand is Moving
+17.384,66,Hand is Moving
+17.484,66,Hand is Moving
+17.585,62,Hand is Moving
+17.685,66,Hand is Moving
+17.786,60,Hand is Moving
+17.887,65,Hand is Moving
+17.987,57,Hand is Moving
+18.087,53,Hand is Moving
+18.188,54,Hand is Moving
+18.288,50,Hand is at Rest
+18.388,55,Hand is Moving
+18.49,68,Hand is Moving
+18.59,75,Hand is Moving
+18.691,86,Hand is Moving
+18.791,94,Hand is Moving
+18.891,93,Hand is Moving
+18.992,94,Hand is Moving
+19.093,91,Hand is Moving
+19.193,84,Hand is Moving
+19.294,85,Hand is Moving
+19.394,77,Hand is Moving
+19.494,66,Hand is Moving
+19.595,54,Hand is Moving
+19.696,40,Hand is at Rest
+19.796,28,Hand is at Rest
+19.897,20,Hand is at Rest
+19.997,17,Hand is at Rest
+20.098,13,Hand is at Rest
+20.198,11,Hand is at Rest
+20.299,10,Hand is at Rest
+20.4,9,Hand is at Rest
+20.5,7,Hand is at Rest
+20.6,6,Hand is at Rest
+20.701,6,Hand is at Rest
+20.801,8,Hand is at Rest
+20.902,12,Hand is at Rest
+21.003,15,Hand is at Rest
+21.103,15,Hand is at Rest
+21.203,22,Hand is at Rest
+21.304,34,Hand is at Rest
+21.404,40,Hand is at Rest
+21.505,57,Hand is Moving
+21.606,66,Hand is Moving
+21.706,80,Hand is Moving
+21.807,78,Hand is Moving
+21.907,81,Hand is Moving
+22.007,80,Hand is Moving
+22.108,82,Hand is Moving
+22.209,82,Hand is Moving
+22.309,84,Hand is Moving
+22.41,86,Hand is Moving
+22.51,83,Hand is Moving
+22.61,89,Hand is Moving
+22.711,89,Hand is Moving
+22.812,99,Hand is Moving
+22.913,95,Hand is Moving
+23.013,93,Hand is Moving
+23.113,91,Hand is Moving
+23.214,85,Hand is Moving
+23.314,73,Hand is Moving
+23.415,66,Hand is Moving
+23.516,53,Hand is Moving
+23.616,38,Hand is at Rest
+23.716,24,Hand is at Rest
+23.817,15,Hand is at Rest
+23.917,12,Hand is at Rest
+24.018,13,Hand is at Rest
+24.119,16,Hand is at Rest
+24.219,17,Hand is at Rest
+24.32,18,Hand is at Rest
+24.42,21,Hand is at Rest
+24.52,25,Hand is at Rest
+24.622,33,Hand is at Rest
+24.722,41,Hand is at Rest
+24.822,40,Hand is at Rest
+24.923,46,Hand is at Rest
+25.023,61,Hand is Moving
+25.123,71,Hand is Moving
+25.224,73,Hand is Moving
+25.325,82,Hand is Moving
+25.425,85,Hand is Moving
+25.526,96,Hand is Moving
+25.626,97,Hand is Moving
+25.726,94,Hand is Moving
+25.827,105,Hand is Moving
+25.928,99,Hand is Moving
+26.029,100,Hand is Moving
+26.129,109,Hand is Moving
+26.229,127,Hand is Moving
+26.33,135,Hand is Moving
+26.43,142,Hand is Moving
+26.531,136,Hand is Moving
+26.632,139,Hand is Moving
+26.732,135,Hand is Moving
+26.832,125,Hand is Moving
+26.933,124,Hand is Moving
+27.033,108,Hand is Moving
+27.134,86,Hand is Moving
+27.235,63,Hand is Moving
+27.335,45,Hand is at Rest
+27.436,31,Hand is at Rest
+27.536,21,Hand is at Rest
+27.636,11,Hand is at Rest
+27.738,17,Hand is at Rest
+27.838,27,Hand is at Rest
+27.938,34,Hand is at Rest
+28.039,41,Hand is at Rest
+28.139,52,Hand is at Rest
+28.239,56,Hand is Moving
+28.34,56,Hand is Moving
+28.441,63,Hand is Moving
+28.541,68,Hand is Moving
+28.642,74,Hand is Moving
+28.742,70,Hand is Moving
+28.843,63,Hand is Moving
+28.943,61,Hand is Moving
+29.044,57,Hand is Moving
+29.145,55,Hand is Moving
+29.245,65,Hand is Moving
+29.345,78,Hand is Moving
+29.446,85,Hand is Moving
+29.546,91,Hand is Moving
+29.647,90,Hand is Moving
+29.748,94,Hand is Moving
+29.848,91,Hand is Moving
+29.948,89,Hand is Moving
+30.049,91,Hand is Moving
+30.149,84,Hand is Moving
+30.251,70,Hand is Moving
+30.351,55,Hand is Moving
+30.451,43,Hand is at Rest
+30.552,33,Hand is at Rest
+30.652,26,Hand is at Rest
+30.752,22,Hand is at Rest
+30.854,19,Hand is at Rest
+30.954,15,Hand is at Rest
+31.054,14,Hand is at Rest
+31.155,27,Hand is at Rest
+31.255,40,Hand is at Rest
+31.355,50,Hand is at Rest
+31.457,61,Hand is Moving
+31.557,62,Hand is Moving
+31.657,65,Hand is Moving
+31.758,71,Hand is Moving
+31.858,83,Hand is Moving
+31.959,94,Hand is Moving
+32.06,91,Hand is Moving
+32.16,76,Hand is Moving
+32.261,66,Hand is Moving
+32.361,61,Hand is Moving
+32.461,54,Hand is Moving
+32.562,63,Hand is Moving
+32.662,72,Hand is Moving
+32.763,76,Hand is Moving
+32.864,75,Hand is Moving
+32.964,70,Hand is Moving
+33.064,69,Hand is Moving
+33.165,70,Hand is Moving
+33.265,71,Hand is Moving
+33.367,69,Hand is Moving
+33.467,64,Hand is Moving
+33.567,53,Hand is Moving
+33.668,42,Hand is at Rest
+33.768,33,Hand is at Rest
+33.868,23,Hand is at Rest
+33.97,18,Hand is at Rest
+34.07,18,Hand is at Rest
+34.17,16,Hand is at Rest
+34.271,12,Hand is at Rest
+34.371,10,Hand is at Rest
+34.471,9,Hand is at Rest
+34.573,9,Hand is at Rest
+34.673,7,Hand is at Rest
+34.774,7,Hand is at Rest
+34.874,6,Hand is at Rest
+34.974,15,Hand is at Rest
+35.075,26,Hand is at Rest
+35.175,37,Hand is at Rest
+35.276,50,Hand is at Rest
+35.377,64,Hand is Moving
+35.477,67,Hand is Moving
+35.577,68,Hand is Moving
+35.678,78,Hand is Moving
+35.778,81,Hand is Moving
+35.879,87,Hand is Moving
+35.98,84,Hand is Moving
+36.08,87,Hand is Moving
+36.18,76,Hand is Moving
+36.281,76,Hand is Moving
+36.381,80,Hand is Moving
+36.483,97,Hand is Moving
+36.583,116,Hand is Moving
+36.683,126,Hand is Moving
+36.784,137,Hand is Moving
+36.884,136,Hand is Moving
+36.984,130,Hand is Moving
+37.086,121,Hand is Moving
+37.186,123,Hand is Moving
+37.286,112,Hand is Moving
+37.387,93,Hand is Moving
+37.487,73,Hand is Moving
+37.587,53,Hand is Moving
+37.689,37,Hand is at Rest
+37.789,25,Hand is at Rest
+37.89,21,Hand is at Rest
+37.99,22,Hand is at Rest
+38.09,18,Hand is at Rest
+38.191,16,Hand is at Rest
+38.292,17,Hand is at Rest
+38.392,20,Hand is at Rest
+38.493,21,Hand is at Rest
+38.593,26,Hand is at Rest
+38.693,28,Hand is at Rest
+38.794,34,Hand is at Rest
+38.895,33,Hand is at Rest
+38.995,36,Hand is at Rest
+39.096,36,Hand is at Rest
+39.196,39,Hand is at Rest
+39.297,43,Hand is at Rest
+39.397,41,Hand is at Rest
+39.497,46,Hand is at Rest
+39.599,39,Hand is at Rest
+39.699,40,Hand is at Rest
+39.799,36,Hand is at Rest
+39.9,44,Hand is at Rest
+40.0,50,Hand is at Rest
+40.1,57,Hand is Moving
+40.202,60,Hand is Moving
+40.302,60,Hand is Moving
+40.402,64,Hand is Moving
+40.503,59,Hand is Moving
+40.603,59,Hand is Moving
+40.704,59,Hand is Moving
+40.805,60,Hand is Moving
+40.905,53,Hand is Moving
+41.006,43,Hand is at Rest
+41.106,37,Hand is at Rest
+41.206,32,Hand is at Rest
+41.307,32,Hand is at Rest
+41.408,29,Hand is at Rest
+41.508,31,Hand is at Rest
+41.609,32,Hand is at Rest
+41.709,31,Hand is at Rest
+41.809,47,Hand is at Rest
+41.91,57,Hand is Moving
+42.011,67,Hand is Moving
+42.112,68,Hand is Moving
+42.212,70,Hand is Moving
+42.312,69,Hand is Moving
+42.413,71,Hand is Moving
+42.513,84,Hand is Moving
+42.614,87,Hand is Moving
+42.715,94,Hand is Moving
+42.815,79,Hand is Moving
+42.915,71,Hand is Moving
+43.016,62,Hand is Moving
+43.116,61,Hand is Moving
+43.216,65,Hand is Moving
+43.318,70,Hand is Moving
+43.418,76,Hand is Moving
+43.518,68,Hand is Moving
+43.619,68,Hand is Moving
+43.719,58,Hand is Moving
+43.82,50,Hand is at Rest
+43.921,51,Hand is at Rest
+44.021,53,Hand is Moving
+44.122,55,Hand is Moving
+44.222,50,Hand is at Rest
+44.322,41,Hand is at Rest
+44.423,30,Hand is at Rest
+44.524,24,Hand is at Rest
+44.624,21,Hand is at Rest
+44.725,22,Hand is at Rest
+44.825,23,Hand is at Rest
+44.925,18,Hand is at Rest
+45.026,15,Hand is at Rest
+45.127,12,Hand is at Rest
+45.228,14,Hand is at Rest
+45.328,22,Hand is at Rest
+45.428,30,Hand is at Rest
+45.529,33,Hand is at Rest
+45.629,37,Hand is at Rest
+45.73,37,Hand is at Rest
+45.831,40,Hand is at Rest
+45.931,45,Hand is at Rest
+46.031,53,Hand is Moving
+46.132,65,Hand is Moving
+46.232,74,Hand is Moving
+46.333,74,Hand is Moving
+46.434,70,Hand is Moving
+46.534,80,Hand is Moving
+46.635,96,Hand is Moving
+46.735,116,Hand is Moving
+46.835,135,Hand is Moving
+46.936,150,Hand is Moving
+47.037,157,Hand is Moving
+47.137,151,Hand is Moving
+47.238,139,Hand is Moving
+47.338,134,Hand is Moving
+47.438,133,Hand is Moving
+47.539,120,Hand is Moving
+47.64,102,Hand is Moving
+47.74,80,Hand is Moving
+47.841,59,Hand is Moving
+47.941,41,Hand is at Rest
+48.041,26,Hand is at Rest
+48.142,20,Hand is at Rest
+48.243,19,Hand is at Rest
+48.344,18,Hand is at Rest
+48.444,15,Hand is at Rest
+48.544,14,Hand is at Rest
+48.645,15,Hand is at Rest
+48.745,24,Hand is at Rest
+48.846,32,Hand is at Rest
+48.947,35,Hand is at Rest
+49.047,40,Hand is at Rest
+49.147,45,Hand is at Rest
+49.248,53,Hand is Moving
+49.348,58,Hand is Moving
+49.449,61,Hand is Moving
+49.55,65,Hand is Moving
+49.65,69,Hand is Moving
+49.751,78,Hand is Moving
+49.851,85,Hand is Moving
+49.951,96,Hand is Moving
+50.053,94,Hand is Moving
+50.153,108,Hand is Moving
+50.253,125,Hand is Moving
+50.354,147,Hand is Moving
+50.454,171,Hand is Moving
+50.554,189,Hand is Moving
+50.656,205,Hand is Moving
+50.756,197,Hand is Moving
+50.856,184,Hand is Moving
+50.957,170,Hand is Moving
+51.057,169,Hand is Moving
+51.158,151,Hand is Moving
+51.259,126,Hand is Moving
+51.359,100,Hand is Moving
+51.46,72,Hand is Moving
+51.56,52,Hand is at Rest
+51.66,30,Hand is at Rest
+51.761,21,Hand is at Rest
+51.861,27,Hand is at Rest
+51.962,30,Hand is at Rest
+52.063,40,Hand is at Rest
+52.163,51,Hand is at Rest
+52.263,70,Hand is Moving
+52.364,85,Hand is Moving
+52.464,91,Hand is Moving
+52.566,101,Hand is Moving
+52.666,114,Hand is Moving
+52.766,125,Hand is Moving
+52.867,127,Hand is Moving
+52.967,125,Hand is Moving
+53.067,122,Hand is Moving
+53.169,116,Hand is Moving
+53.269,103,Hand is Moving
+53.369,97,Hand is Moving
+53.47,102,Hand is Moving
+53.57,104,Hand is Moving
+53.67,105,Hand is Moving
+53.772,103,Hand is Moving
+53.872,102,Hand is Moving
+53.972,106,Hand is Moving
+54.073,102,Hand is Moving
+54.173,97,Hand is Moving
+54.274,93,Hand is Moving
+54.375,84,Hand is Moving
+54.475,74,Hand is Moving
+54.576,63,Hand is Moving
+54.676,50,Hand is at Rest
+54.776,42,Hand is at Rest
+54.877,34,Hand is at Rest
+54.977,28,Hand is at Rest
+55.078,24,Hand is at Rest
+55.179,22,Hand is at Rest
+55.279,22,Hand is at Rest
+55.379,21,Hand is at Rest
+55.48,21,Hand is at Rest
+55.58,20,Hand is at Rest
+55.682,22,Hand is at Rest
+55.782,23,Hand is at Rest
+55.882,26,Hand is at Rest
+55.983,30,Hand is at Rest
+56.083,32,Hand is at Rest
+56.183,35,Hand is at Rest
+56.285,37,Hand is at Rest
+56.385,53,Hand is Moving
+56.485,73,Hand is Moving
+56.586,85,Hand is Moving
+56.686,91,Hand is Moving
+56.786,110,Hand is Moving
+56.888,132,Hand is Moving
+56.988,154,Hand is Moving
+57.089,177,Hand is Moving
+57.189,200,Hand is Moving
+57.289,220,Hand is Moving
+57.39,214,Hand is Moving
+57.491,193,Hand is Moving
+57.591,183,Hand is Moving
+57.692,175,Hand is Moving
+57.792,152,Hand is Moving
+57.892,126,Hand is Moving
+57.993,99,Hand is Moving
+58.094,75,Hand is Moving
+58.194,48,Hand is at Rest
+58.295,30,Hand is at Rest
+58.395,22,Hand is at Rest
+58.496,32,Hand is at Rest
+58.596,43,Hand is at Rest
+58.697,53,Hand is Moving
+58.798,55,Hand is Moving
+58.898,60,Hand is Moving
+58.998,61,Hand is Moving
+59.099,66,Hand is Moving
+59.199,72,Hand is Moving
+59.3,74,Hand is Moving
+59.401,74,Hand is Moving
+59.501,70,Hand is Moving
+59.601,65,Hand is Moving
+59.702,54,Hand is Moving
+59.802,69,Hand is Moving
+59.904,78,Hand is Moving
+60.004,88,Hand is Moving
+60.104,100,Hand is Moving
+60.205,116,Hand is Moving
+60.305,132,Hand is Moving
+60.405,153,Hand is Moving
+60.506,170,Hand is Moving
+60.607,181,Hand is Moving
+60.707,185,Hand is Moving
+60.808,171,Hand is Moving
+60.908,158,Hand is Moving
+61.008,147,Hand is Moving
+61.109,126,Hand is Moving
+61.21,103,Hand is Moving
+61.31,80,Hand is Moving
+61.411,57,Hand is Moving
+61.511,35,Hand is at Rest
+0.0,20,Hand is at Rest
+0.1,20,Hand is at Rest
+0.2,24,Hand is at Rest
+0.301,29,Hand is at Rest
+0.401,34,Hand is at Rest
+0.501,40,Hand is at Rest
+0.602,44,Hand is at Rest
+0.702,44,Hand is at Rest
+0.802,44,Hand is at Rest
+0.903,43,Hand is at Rest
+1.003,37,Hand is at Rest
+1.103,31,Hand is at Rest
+1.204,25,Hand is at Rest
+1.304,21,Hand is at Rest
+1.404,17,Hand is at Rest
+1.505,13,Hand is at Rest
+1.605,10,Hand is at Rest
+1.707,15,Hand is at Rest
+1.807,16,Hand is at Rest
+1.907,17,Hand is at Rest
+2.008,17,Hand is at Rest
+2.108,19,Hand is at Rest
+2.208,21,Hand is at Rest
+2.309,19,Hand is at Rest
+2.409,21,Hand is at Rest
+2.51,23,Hand is at Rest
+2.611,24,Hand is at Rest
+2.711,25,Hand is at Rest
+2.811,32,Hand is at Rest
+2.912,38,Hand is at Rest
+3.012,49,Hand is at Rest
+3.112,52,Hand is at Rest
+3.213,61,Hand is Moving
+3.313,72,Hand is Moving
+3.415,80,Hand is Moving
+3.515,85,Hand is Moving
+3.615,83,Hand is Moving
+3.716,79,Hand is Moving
+3.816,77,Hand is Moving
+3.916,77,Hand is Moving
+4.017,74,Hand is Moving
+4.117,79,Hand is Moving
+4.218,81,Hand is Moving
+4.319,75,Hand is Moving
+4.419,68,Hand is Moving
+4.519,68,Hand is Moving
+4.62,69,Hand is Moving
+4.72,72,Hand is Moving
+4.82,69,Hand is Moving
+4.921,62,Hand is Moving
+5.022,55,Hand is Moving
+5.123,44,Hand is at Rest
+5.223,34,Hand is at Rest
+5.323,29,Hand is at Rest
+5.424,25,Hand is at Rest
+5.524,19,Hand is at Rest
+5.624,16,Hand is at Rest
+5.725,13,Hand is at Rest
+5.825,13,Hand is at Rest
+5.926,15,Hand is at Rest
+6.027,15,Hand is at Rest
+6.127,17,Hand is at Rest
+6.227,16,Hand is at Rest
+6.328,16,Hand is at Rest
+6.428,17,Hand is at Rest
+6.529,16,Hand is at Rest
+6.629,17,Hand is at Rest
+6.73,18,Hand is at Rest
+6.831,21,Hand is at Rest
+6.931,25,Hand is at Rest
+7.031,37,Hand is at Rest
+7.132,42,Hand is at Rest
+7.232,45,Hand is at Rest
+7.332,52,Hand is at Rest
+7.433,63,Hand is Moving
+7.534,75,Hand is Moving
+7.634,89,Hand is Moving
+7.735,102,Hand is Moving
+7.835,108,Hand is Moving
+7.936,109,Hand is Moving
+8.036,96,Hand is Moving
+8.136,95,Hand is Moving
+8.237,96,Hand is Moving
+8.337,94,Hand is Moving
+8.438,91,Hand is Moving
+8.539,87,Hand is Moving
+8.639,78,Hand is Moving
+8.739,70,Hand is Moving
+8.84,65,Hand is Moving
+8.94,63,Hand is Moving
+9.04,63,Hand is Moving
+9.141,60,Hand is Moving
+9.242,55,Hand is Moving
+9.342,50,Hand is at Rest
+9.443,44,Hand is at Rest
+9.543,36,Hand is at Rest
+9.644,30,Hand is at Rest
+9.744,27,Hand is at Rest
+9.844,26,Hand is at Rest
+9.945,24,Hand is at Rest
+10.046,28,Hand is at Rest
+10.146,26,Hand is at Rest
+10.247,30,Hand is at Rest
+10.347,34,Hand is at Rest
+10.447,33,Hand is at Rest
+10.548,36,Hand is at Rest
+10.648,42,Hand is at Rest
+10.749,45,Hand is at Rest
+10.85,49,Hand is at Rest
+10.95,57,Hand is Moving
+11.051,65,Hand is Moving
+11.151,75,Hand is Moving
+11.251,81,Hand is Moving
+11.353,79,Hand is Moving
+11.453,81,Hand is Moving
+11.553,81,Hand is Moving
+11.654,75,Hand is Moving
+11.754,68,Hand is Moving
+11.854,59,Hand is Moving
+11.956,49,Hand is at Rest
+12.056,38,Hand is at Rest
+12.156,32,Hand is at Rest
+12.257,22,Hand is at Rest
+12.357,20,Hand is at Rest
+12.457,20,Hand is at Rest
+12.559,21,Hand is at Rest
+12.659,22,Hand is at Rest
+12.76,25,Hand is at Rest
+12.86,28,Hand is at Rest
+12.96,31,Hand is at Rest
+13.061,31,Hand is at Rest
+13.161,32,Hand is at Rest
+13.262,38,Hand is at Rest
+13.363,49,Hand is at Rest
+13.463,66,Hand is Moving
+13.563,86,Hand is Moving
+13.664,96,Hand is Moving
+13.764,94,Hand is Moving
+13.865,91,Hand is Moving
+13.966,96,Hand is Moving
+14.066,112,Hand is Moving
+14.167,129,Hand is Moving
+14.267,145,Hand is Moving
+14.367,152,Hand is Moving
+14.469,143,Hand is Moving
+14.569,127,Hand is Moving
+14.669,120,Hand is Moving
+14.77,121,Hand is Moving
+14.87,122,Hand is Moving
+14.97,117,Hand is Moving
+15.072,104,Hand is Moving
+15.172,88,Hand is Moving
+15.272,77,Hand is Moving
+15.373,60,Hand is Moving
+15.473,53,Hand is Moving
+15.574,48,Hand is at Rest
+15.675,42,Hand is at Rest
+15.775,41,Hand is at Rest
+15.876,40,Hand is at Rest
+15.976,41,Hand is at Rest
+16.076,39,Hand is at Rest
+16.177,40,Hand is at Rest
+16.277,37,Hand is at Rest
+16.378,37,Hand is at Rest
+16.479,36,Hand is at Rest
+16.579,37,Hand is at Rest
+16.679,39,Hand is at Rest
+16.78,38,Hand is at Rest
+16.88,42,Hand is at Rest
+16.982,44,Hand is at Rest
+17.082,44,Hand is at Rest
+17.182,43,Hand is at Rest
+17.283,40,Hand is at Rest
+17.383,47,Hand is at Rest
+17.483,53,Hand is Moving
+17.585,54,Hand is Moving
+17.685,56,Hand is Moving
+17.785,63,Hand is Moving
+17.886,59,Hand is Moving
+17.986,56,Hand is Moving
+18.086,54,Hand is Moving
+18.188,49,Hand is at Rest
+18.288,47,Hand is at Rest
+18.388,38,Hand is at Rest
+18.489,29,Hand is at Rest
+18.589,25,Hand is at Rest
+18.69,20,Hand is at Rest
+18.791,16,Hand is at Rest
+18.891,16,Hand is at Rest
+18.992,17,Hand is at Rest
+19.092,20,Hand is at Rest
+19.192,21,Hand is at Rest
+19.293,20,Hand is at Rest
+19.393,20,Hand is at Rest
+19.494,20,Hand is at Rest
+19.595,21,Hand is at Rest
+19.695,22,Hand is at Rest
+19.795,23,Hand is at Rest
+19.896,22,Hand is at Rest
+19.996,20,Hand is at Rest
+20.098,18,Hand is at Rest
+20.198,28,Hand is at Rest
+20.298,40,Hand is at Rest
+20.399,54,Hand is Moving
+20.499,65,Hand is Moving
+20.599,71,Hand is Moving
+20.701,74,Hand is Moving
+20.801,81,Hand is Moving
+20.901,87,Hand is Moving
+21.002,96,Hand is Moving
+21.102,107,Hand is Moving
+21.202,107,Hand is Moving
+21.304,99,Hand is Moving
+21.404,90,Hand is Moving
+21.505,83,Hand is Moving
+21.605,76,Hand is Moving
+21.705,75,Hand is Moving
+21.806,66,Hand is Moving
+21.907,59,Hand is Moving
+22.007,47,Hand is at Rest
+22.108,38,Hand is at Rest
+22.208,30,Hand is at Rest
+22.308,28,Hand is at Rest
+22.409,29,Hand is at Rest
+22.51,27,Hand is at Rest
+22.61,26,Hand is at Rest
+22.711,24,Hand is at Rest
+22.811,25,Hand is at Rest
+22.912,30,Hand is at Rest
+23.012,32,Hand is at Rest
+23.112,33,Hand is at Rest
+23.214,32,Hand is at Rest
+23.314,31,Hand is at Rest
+23.414,31,Hand is at Rest
+23.515,33,Hand is at Rest
+23.615,37,Hand is at Rest
+23.715,44,Hand is at Rest
+23.817,48,Hand is at Rest
+23.917,47,Hand is at Rest
+24.017,48,Hand is at Rest
+24.118,50,Hand is at Rest
+24.218,48,Hand is at Rest
+24.318,50,Hand is at Rest
+24.42,49,Hand is at Rest
+24.52,46,Hand is at Rest
+24.621,45,Hand is at Rest
+24.721,40,Hand is at Rest
+24.821,38,Hand is at Rest
+24.922,37,Hand is at Rest
+25.023,36,Hand is at Rest
+25.123,37,Hand is at Rest
+25.224,40,Hand is at Rest
+25.324,39,Hand is at Rest
+25.424,38,Hand is at Rest
+25.525,40,Hand is at Rest
+25.626,41,Hand is at Rest
+25.726,40,Hand is at Rest
+25.827,36,Hand is at Rest
+25.927,35,Hand is at Rest
+26.028,39,Hand is at Rest
+26.128,39,Hand is at Rest
+26.228,55,Hand is Moving
+26.33,74,Hand is Moving
+26.43,97,Hand is Moving
+26.53,112,Hand is Moving
+26.631,114,Hand is Moving
+26.731,131,Hand is Moving
+26.831,143,Hand is Moving
+26.933,163,Hand is Moving
+27.033,183,Hand is Moving
+27.133,201,Hand is Moving
+27.234,197,Hand is Moving
+27.334,189,Hand is Moving
+27.435,186,Hand is Moving
+27.536,177,Hand is Moving
+27.636,173,Hand is Moving
+27.737,159,Hand is Moving
+27.837,150,Hand is Moving
+27.937,131,Hand is Moving
+28.038,107,Hand is Moving
+28.139,81,Hand is Moving
+28.239,67,Hand is Moving
+28.34,57,Hand is Moving
+28.44,34,Hand is at Rest
+28.54,24,Hand is at Rest
+28.641,24,Hand is at Rest
+28.742,25,Hand is at Rest
+28.843,26,Hand is at Rest
+28.943,27,Hand is at Rest
+29.043,33,Hand is at Rest
+29.144,37,Hand is at Rest
+29.244,44,Hand is at Rest
+29.344,45,Hand is at Rest
+29.446,53,Hand is Moving
+29.546,59,Hand is Moving
+29.646,68,Hand is Moving
+29.747,69,Hand is Moving
+29.847,75,Hand is Moving
+29.947,79,Hand is Moving
+30.049,74,Hand is Moving
+30.149,80,Hand is Moving
+30.249,76,Hand is Moving
+30.35,79,Hand is Moving
+30.45,82,Hand is Moving
+30.551,87,Hand is Moving
+30.652,91,Hand is Moving
+30.752,95,Hand is Moving
+30.853,85,Hand is Moving
+30.953,86,Hand is Moving
+31.053,92,Hand is Moving
+31.154,85,Hand is Moving
+31.255,85,Hand is Moving
+31.355,82,Hand is Moving
+31.456,76,Hand is Moving
+31.556,68,Hand is Moving
+31.656,54,Hand is Moving
+31.757,44,Hand is at Rest
+31.858,44,Hand is at Rest
+31.959,34,Hand is at Rest
+32.059,28,Hand is at Rest
+32.159,24,Hand is at Rest
+32.26,21,Hand is at Rest
+32.36,18,Hand is at Rest
+32.461,14,Hand is at Rest
+32.562,13,Hand is at Rest
+32.662,12,Hand is at Rest
+32.762,14,Hand is at Rest
+32.863,14,Hand is at Rest
+32.963,14,Hand is at Rest
+33.064,13,Hand is at Rest
+33.165,13,Hand is at Rest
+33.265,10,Hand is at Rest
+33.366,10,Hand is at Rest
+33.466,10,Hand is at Rest
+33.566,15,Hand is at Rest
+33.667,16,Hand is at Rest
+33.768,16,Hand is at Rest
+33.868,19,Hand is at Rest
+33.969,21,Hand is at Rest
+34.069,23,Hand is at Rest
+34.169,28,Hand is at Rest
+34.27,36,Hand is at Rest
+34.371,42,Hand is at Rest
+34.471,44,Hand is at Rest
+34.572,41,Hand is at Rest
+34.672,44,Hand is at Rest
+34.772,41,Hand is at Rest
+34.873,38,Hand is at Rest
+34.974,37,Hand is at Rest
+35.075,37,Hand is at Rest
+35.175,34,Hand is at Rest
+35.275,28,Hand is at Rest
+35.376,25,Hand is at Rest
+35.476,21,Hand is at Rest
+35.577,19,Hand is at Rest
+35.678,19,Hand is at Rest
+35.778,21,Hand is at Rest
+35.878,22,Hand is at Rest
+35.979,24,Hand is at Rest
+36.079,22,Hand is at Rest
+36.18,21,Hand is at Rest
+36.281,20,Hand is at Rest
+36.381,21,Hand is at Rest
+36.482,31,Hand is at Rest
+36.582,30,Hand is at Rest
+36.682,40,Hand is at Rest
+36.784,58,Hand is Moving
+36.884,81,Hand is Moving
+36.984,92,Hand is Moving
+37.085,98,Hand is Moving
+37.185,99,Hand is Moving
+37.285,103,Hand is Moving
+37.386,100,Hand is Moving
+37.487,96,Hand is Moving
+37.587,105,Hand is Moving
+37.688,96,Hand is Moving
+37.788,86,Hand is Moving
+37.889,75,Hand is Moving
+37.989,76,Hand is Moving
+38.09,88,Hand is Moving
+38.191,102,Hand is Moving
+38.291,111,Hand is Moving
+38.391,126,Hand is Moving
+38.492,131,Hand is Moving
+38.592,129,Hand is Moving
+38.693,129,Hand is Moving
+38.794,121,Hand is Moving
+38.894,108,Hand is Moving
+38.994,92,Hand is Moving
+39.095,75,Hand is Moving
+39.195,61,Hand is Moving
+39.297,48,Hand is at Rest
+39.397,35,Hand is at Rest
+39.497,25,Hand is at Rest
+39.598,17,Hand is at Rest
+39.698,13,Hand is at Rest
+39.798,12,Hand is at Rest
+39.9,13,Hand is at Rest
+40.0,13,Hand is at Rest
+40.1,12,Hand is at Rest
+40.201,11,Hand is at Rest
+40.301,12,Hand is at Rest
+40.401,14,Hand is at Rest
+40.503,19,Hand is at Rest
+40.603,21,Hand is at Rest
+40.704,24,Hand is at Rest
+40.804,29,Hand is at Rest
+40.904,35,Hand is at Rest
+41.005,45,Hand is at Rest
+41.106,55,Hand is Moving
+41.206,56,Hand is Moving
+41.307,57,Hand is Moving
+41.407,55,Hand is Moving
+41.507,58,Hand is Moving
+41.608,60,Hand is Moving
+41.708,65,Hand is Moving
+41.809,71,Hand is Moving
+41.91,75,Hand is Moving
+42.01,77,Hand is Moving
+42.11,76,Hand is Moving
+42.211,85,Hand is Moving
+42.311,90,Hand is Moving
+42.413,93,Hand is Moving
+42.513,87,Hand is Moving
+42.613,85,Hand is Moving
+42.714,79,Hand is Moving
+42.814,70,Hand is Moving
+42.914,64,Hand is Moving
+43.016,56,Hand is Moving
+43.116,53,Hand is Moving
+43.216,47,Hand is at Rest
+43.317,40,Hand is at Rest
+43.417,42,Hand is at Rest
+43.517,41,Hand is at Rest
+43.619,42,Hand is at Rest
+43.719,45,Hand is at Rest
+43.82,46,Hand is at Rest
+43.92,50,Hand is at Rest
+44.02,46,Hand is at Rest
+44.121,47,Hand is at Rest
+44.222,44,Hand is at Rest
+44.322,45,Hand is at Rest
+44.423,43,Hand is at Rest
+44.523,47,Hand is at Rest
+44.623,48,Hand is at Rest
+44.724,45,Hand is at Rest
+44.824,43,Hand is at Rest
+44.925,40,Hand is at Rest
+45.026,40,Hand is at Rest
+45.126,35,Hand is at Rest
+45.227,41,Hand is at Rest
+45.327,46,Hand is at Rest
+45.427,48,Hand is at Rest
+45.529,47,Hand is at Rest
+45.629,47,Hand is at Rest
+45.729,54,Hand is Moving
+45.83,54,Hand is Moving
+45.93,52,Hand is at Rest
+46.03,57,Hand is Moving
+46.132,54,Hand is Moving
+46.232,50,Hand is at Rest
+46.332,46,Hand is at Rest
+46.433,42,Hand is at Rest
+46.533,38,Hand is at Rest
+46.633,34,Hand is at Rest
+46.735,27,Hand is at Rest
+46.835,26,Hand is at Rest
+46.936,24,Hand is at Rest
+47.036,23,Hand is at Rest
+47.136,25,Hand is at Rest
+47.237,29,Hand is at Rest
+47.338,27,Hand is at Rest
+47.438,23,Hand is at Rest
+47.539,22,Hand is at Rest
+47.639,23,Hand is at Rest
+47.739,24,Hand is at Rest
+47.84,23,Hand is at Rest
+47.941,31,Hand is at Rest
+48.041,38,Hand is at Rest
+48.142,49,Hand is at Rest
+48.242,61,Hand is Moving
+48.343,65,Hand is Moving
+48.443,66,Hand is Moving
+48.544,70,Hand is Moving
+48.645,71,Hand is Moving
+48.745,86,Hand is Moving
+48.845,107,Hand is Moving
+48.946,120,Hand is Moving
+49.046,125,Hand is Moving
+49.146,129,Hand is Moving
+49.248,128,Hand is Moving
+49.348,137,Hand is Moving
+49.448,138,Hand is Moving
+49.549,136,Hand is Moving
+49.649,135,Hand is Moving
+49.75,119,Hand is Moving
+49.851,97,Hand is Moving
+49.951,76,Hand is Moving
+50.052,60,Hand is Moving
+50.152,43,Hand is at Rest
+50.252,26,Hand is at Rest
+50.353,13,Hand is at Rest
+50.454,11,Hand is at Rest
+50.554,9,Hand is at Rest
+50.655,9,Hand is at Rest
+50.755,8,Hand is at Rest
+50.855,10,Hand is at Rest
+50.956,13,Hand is at Rest
+51.057,15,Hand is at Rest
+51.158,22,Hand is at Rest
+51.258,27,Hand is at Rest
+51.358,33,Hand is at Rest
+51.459,38,Hand is at Rest
+51.559,43,Hand is at Rest
+51.66,51,Hand is at Rest
+51.761,60,Hand is Moving
+51.861,65,Hand is Moving
+51.961,71,Hand is Moving
+52.062,80,Hand is Moving
+52.162,89,Hand is Moving
+52.263,92,Hand is Moving
+52.364,95,Hand is Moving
+52.464,91,Hand is Moving
+52.564,93,Hand is Moving
+52.665,94,Hand is Moving
+52.765,92,Hand is Moving
+52.866,87,Hand is Moving
+52.967,91,Hand is Moving
+53.067,92,Hand is Moving
+53.168,93,Hand is Moving
+53.268,97,Hand is Moving
+53.368,104,Hand is Moving
+53.469,120,Hand is Moving
+53.57,133,Hand is Moving
+53.67,134,Hand is Moving
+53.771,137,Hand is Moving
+53.871,147,Hand is Moving
+53.971,144,Hand is Moving
+54.072,137,Hand is Moving
+54.173,123,Hand is Moving
+54.274,112,Hand is Moving
+54.374,96,Hand is Moving
+54.474,81,Hand is Moving
+54.575,61,Hand is Moving
+54.675,52,Hand is at Rest
+54.776,41,Hand is at Rest
+54.877,30,Hand is at Rest
+54.977,20,Hand is at Rest
+55.077,14,Hand is at Rest
+55.178,13,Hand is at Rest
+55.278,13,Hand is at Rest
+55.379,13,Hand is at Rest
+55.48,11,Hand is at Rest
+55.58,10,Hand is at Rest
+55.681,10,Hand is at Rest
+55.781,11,Hand is at Rest
+55.881,21,Hand is at Rest
+55.983,34,Hand is at Rest
+56.083,41,Hand is at Rest
+56.183,51,Hand is at Rest
+56.284,54,Hand is Moving
+56.384,63,Hand is Moving
+56.484,75,Hand is Moving
+56.586,86,Hand is Moving
+56.686,98,Hand is Moving
+56.786,105,Hand is Moving
+56.887,106,Hand is Moving
+56.987,94,Hand is Moving
+57.088,90,Hand is Moving
+57.189,81,Hand is Moving
+57.289,79,Hand is Moving
+57.39,74,Hand is Moving
+57.49,63,Hand is Moving
+57.59,55,Hand is Moving
+57.691,47,Hand is at Rest
+57.792,43,Hand is at Rest
+57.892,35,Hand is at Rest
+57.993,38,Hand is at Rest
+58.093,41,Hand is at Rest
+58.193,50,Hand is at Rest
+58.294,61,Hand is Moving
+58.395,71,Hand is Moving
+58.496,77,Hand is Moving
+58.596,88,Hand is Moving
+58.696,98,Hand is Moving
+58.797,99,Hand is Moving
+58.897,99,Hand is Moving
+58.998,105,Hand is Moving
+59.099,110,Hand is Moving
+59.199,107,Hand is Moving
+59.299,110,Hand is Moving
+59.4,112,Hand is Moving
+59.5,116,Hand is Moving
+59.6,114,Hand is Moving
+59.702,110,Hand is Moving
+59.802,115,Hand is Moving
+59.902,123,Hand is Moving
+60.003,119,Hand is Moving
+60.103,115,Hand is Moving
+60.204,112,Hand is Moving
+60.305,99,Hand is Moving
+60.405,86,Hand is Moving
+60.506,75,Hand is Moving
+60.606,64,Hand is Moving
+60.706,54,Hand is Moving
+60.807,45,Hand is at Rest
+60.908,35,Hand is at Rest
+61.008,29,Hand is at Rest
+61.109,23,Hand is at Rest
+61.209,19,Hand is at Rest
+0.0,18,Hand is at Rest
+0.1,18,Hand is at Rest
+0.2,19,Hand is at Rest
+0.301,20,Hand is at Rest
+0.401,20,Hand is at Rest
+0.501,20,Hand is at Rest
+0.602,20,Hand is at Rest
+0.702,21,Hand is at Rest
+0.802,21,Hand is at Rest
+0.903,22,Hand is at Rest
+1.003,21,Hand is at Rest
+1.103,21,Hand is at Rest
+1.204,21,Hand is at Rest
+1.304,19,Hand is at Rest
+1.404,18,Hand is at Rest
+1.505,17,Hand is at Rest
+1.605,18,Hand is at Rest
+1.707,20,Hand is at Rest
+1.807,25,Hand is at Rest
+1.907,26,Hand is at Rest
+2.008,26,Hand is at Rest
+2.108,29,Hand is at Rest
+2.208,33,Hand is at Rest
+2.309,39,Hand is at Rest
+2.409,45,Hand is at Rest
+2.51,50,Hand is at Rest
+2.611,53,Hand is Moving
+2.711,56,Hand is Moving
+2.811,55,Hand is Moving
+2.912,60,Hand is Moving
+3.012,59,Hand is Moving
+3.112,60,Hand is Moving
+3.213,62,Hand is Moving
+3.313,56,Hand is Moving
+3.415,50,Hand is at Rest
+3.515,45,Hand is at Rest
+3.615,43,Hand is at Rest
+3.716,43,Hand is at Rest
+3.816,39,Hand is at Rest
+3.916,35,Hand is at Rest
+4.017,39,Hand is at Rest
+4.117,36,Hand is at Rest
+4.218,39,Hand is at Rest
+4.319,37,Hand is at Rest
+4.419,42,Hand is at Rest
+4.519,48,Hand is at Rest
+4.62,46,Hand is at Rest
+4.72,40,Hand is at Rest
+4.82,41,Hand is at Rest
+4.921,41,Hand is at Rest
+5.022,42,Hand is at Rest
+5.123,53,Hand is Moving
+5.223,61,Hand is Moving
+5.323,77,Hand is Moving
+5.424,87,Hand is Moving
+5.524,95,Hand is Moving
+5.624,107,Hand is Moving
+5.725,113,Hand is Moving
+5.825,113,Hand is Moving
+5.926,112,Hand is Moving
+6.027,108,Hand is Moving
+6.127,97,Hand is Moving
+6.227,80,Hand is Moving
+6.328,66,Hand is Moving
+6.428,51,Hand is at Rest
+6.529,39,Hand is at Rest
+6.629,28,Hand is at Rest
+6.73,22,Hand is at Rest
+6.831,20,Hand is at Rest
+6.931,18,Hand is at Rest
+7.031,17,Hand is at Rest
+7.132,16,Hand is at Rest
+7.232,18,Hand is at Rest
+7.332,19,Hand is at Rest
+7.433,20,Hand is at Rest
+7.534,19,Hand is at Rest
+7.634,20,Hand is at Rest
+7.735,19,Hand is at Rest
+7.835,21,Hand is at Rest
+7.936,24,Hand is at Rest
+8.036,23,Hand is at Rest
+8.136,25,Hand is at Rest
+8.237,25,Hand is at Rest
+8.337,23,Hand is at Rest
+8.438,21,Hand is at Rest
+8.539,25,Hand is at Rest
+8.639,27,Hand is at Rest
+8.739,29,Hand is at Rest
+8.84,31,Hand is at Rest
+8.94,30,Hand is at Rest
+9.04,28,Hand is at Rest
+9.141,28,Hand is at Rest
+9.242,28,Hand is at Rest
+9.342,30,Hand is at Rest
+9.443,30,Hand is at Rest
+9.543,29,Hand is at Rest
+9.644,33,Hand is at Rest
+9.744,32,Hand is at Rest
+9.844,34,Hand is at Rest
+9.945,41,Hand is at Rest
+10.046,51,Hand is at Rest
+10.146,54,Hand is Moving
+10.247,55,Hand is Moving
+10.347,55,Hand is Moving
+10.447,62,Hand is Moving
+10.548,61,Hand is Moving
+10.648,61,Hand is Moving
+10.749,67,Hand is Moving
+10.85,66,Hand is Moving
+10.95,67,Hand is Moving
+11.051,62,Hand is Moving
+11.151,60,Hand is Moving
+11.251,59,Hand is Moving
+11.353,61,Hand is Moving
+11.453,59,Hand is Moving
+11.553,61,Hand is Moving
+11.654,56,Hand is Moving
+11.754,52,Hand is at Rest
+11.854,49,Hand is at Rest
+11.956,43,Hand is at Rest
+12.056,39,Hand is at Rest
+12.156,36,Hand is at Rest
+12.257,35,Hand is at Rest
+12.357,35,Hand is at Rest
+12.457,34,Hand is at Rest
+12.559,28,Hand is at Rest
+12.659,28,Hand is at Rest
+12.76,26,Hand is at Rest
+12.86,24,Hand is at Rest
+12.96,25,Hand is at Rest
+13.061,26,Hand is at Rest
+13.161,26,Hand is at Rest
+13.262,24,Hand is at Rest
+13.363,31,Hand is at Rest
+13.463,28,Hand is at Rest
+13.563,28,Hand is at Rest
+13.664,29,Hand is at Rest
+13.764,36,Hand is at Rest
+13.865,40,Hand is at Rest
+13.966,43,Hand is at Rest
+14.066,43,Hand is at Rest
+14.167,42,Hand is at Rest
+14.267,50,Hand is at Rest
+14.367,44,Hand is at Rest
+14.469,51,Hand is at Rest
+14.569,57,Hand is Moving
+14.669,55,Hand is Moving
+14.77,45,Hand is at Rest
+14.87,48,Hand is at Rest
+14.97,46,Hand is at Rest
+15.072,44,Hand is at Rest
+15.172,45,Hand is at Rest
+15.272,42,Hand is at Rest
+15.373,40,Hand is at Rest
+15.473,34,Hand is at Rest
+15.574,31,Hand is at Rest
+15.675,35,Hand is at Rest
+15.775,38,Hand is at Rest
+15.876,34,Hand is at Rest
+15.976,31,Hand is at Rest
+16.076,32,Hand is at Rest
+16.177,33,Hand is at Rest
+16.277,28,Hand is at Rest
+16.378,31,Hand is at Rest
+16.479,34,Hand is at Rest
+16.579,34,Hand is at Rest
+16.679,51,Hand is at Rest
+16.78,51,Hand is at Rest
+16.88,54,Hand is Moving
+16.982,60,Hand is Moving
+17.082,70,Hand is Moving
+17.182,77,Hand is Moving
+17.283,92,Hand is Moving
+17.383,105,Hand is Moving
+17.483,103,Hand is Moving
+17.585,104,Hand is Moving
+17.685,85,Hand is Moving
+17.785,88,Hand is Moving
+17.886,82,Hand is Moving
+17.986,73,Hand is Moving
+18.086,65,Hand is Moving
+18.188,54,Hand is Moving
+18.288,44,Hand is at Rest
+18.388,33,Hand is at Rest
+18.489,32,Hand is at Rest
+18.589,32,Hand is at Rest
+18.69,31,Hand is at Rest
+18.791,24,Hand is at Rest
+18.891,28,Hand is at Rest
+18.992,30,Hand is at Rest
+19.092,34,Hand is at Rest
+19.192,35,Hand is at Rest
+19.293,32,Hand is at Rest
+19.394,29,Hand is at Rest
+19.494,26,Hand is at Rest
+19.595,26,Hand is at Rest
+19.695,27,Hand is at Rest
+19.795,31,Hand is at Rest
+19.896,32,Hand is at Rest
+19.996,31,Hand is at Rest
+20.098,29,Hand is at Rest
+20.198,32,Hand is at Rest
+20.298,37,Hand is at Rest
+20.399,41,Hand is at Rest
+20.499,42,Hand is at Rest
+20.599,47,Hand is at Rest
+20.701,56,Hand is Moving
+20.801,57,Hand is Moving
+20.901,62,Hand is Moving
+21.002,65,Hand is Moving
+21.102,70,Hand is Moving
+21.202,71,Hand is Moving
+21.304,64,Hand is Moving
+21.404,61,Hand is Moving
+21.505,61,Hand is Moving
+21.605,54,Hand is Moving
+21.705,44,Hand is at Rest
+21.806,38,Hand is at Rest
+21.907,29,Hand is at Rest
+22.007,25,Hand is at Rest
+22.108,20,Hand is at Rest
+22.208,18,Hand is at Rest
+22.308,21,Hand is at Rest
+22.409,22,Hand is at Rest
+22.51,22,Hand is at Rest
+22.61,24,Hand is at Rest
+22.711,25,Hand is at Rest
+22.811,31,Hand is at Rest
+22.912,31,Hand is at Rest
+23.012,31,Hand is at Rest
+23.112,32,Hand is at Rest
+23.214,30,Hand is at Rest
+23.314,30,Hand is at Rest
+23.414,29,Hand is at Rest
+23.515,32,Hand is at Rest
+23.615,32,Hand is at Rest
+23.715,34,Hand is at Rest
+23.817,32,Hand is at Rest
+23.917,35,Hand is at Rest
+24.017,35,Hand is at Rest
+24.118,33,Hand is at Rest
+24.218,34,Hand is at Rest
+24.318,32,Hand is at Rest
+24.419,31,Hand is at Rest
+24.52,30,Hand is at Rest
+24.621,27,Hand is at Rest
+24.721,29,Hand is at Rest
+24.821,28,Hand is at Rest
+24.922,29,Hand is at Rest
+25.022,30,Hand is at Rest
+25.123,36,Hand is at Rest
+25.224,44,Hand is at Rest
+25.324,50,Hand is at Rest
+25.424,60,Hand is Moving
+25.525,70,Hand is Moving
+25.625,84,Hand is Moving
+25.726,103,Hand is Moving
+25.827,119,Hand is Moving
+25.927,144,Hand is Moving
+26.028,161,Hand is Moving
+26.128,160,Hand is Moving
+26.228,154,Hand is Moving
+26.33,166,Hand is Moving
+26.43,182,Hand is Moving
+26.53,201,Hand is Moving
+26.631,206,Hand is Moving
+26.731,201,Hand is Moving
+26.831,201,Hand is Moving
+26.933,178,Hand is Moving
+27.033,165,Hand is Moving
+27.133,162,Hand is Moving
+27.234,160,Hand is Moving
+27.334,146,Hand is Moving
+27.435,125,Hand is Moving
+27.535,100,Hand is Moving
+27.636,88,Hand is Moving
+27.737,74,Hand is Moving
+27.837,64,Hand is Moving
+27.937,63,Hand is Moving
+28.038,64,Hand is Moving
+28.138,67,Hand is Moving
+28.239,72,Hand is Moving
+28.34,72,Hand is Moving
+28.44,71,Hand is Moving
+28.54,69,Hand is Moving
+28.641,64,Hand is Moving
+28.741,62,Hand is Moving
+28.843,53,Hand is Moving
+28.943,48,Hand is at Rest
+29.043,43,Hand is at Rest
+29.144,38,Hand is at Rest
+29.244,31,Hand is at Rest
+29.344,26,Hand is at Rest
+29.445,19,Hand is at Rest
+29.546,15,Hand is at Rest
+29.646,12,Hand is at Rest
+29.747,11,Hand is at Rest
+29.847,16,Hand is at Rest
+29.947,19,Hand is at Rest
+30.048,25,Hand is at Rest
+30.149,33,Hand is at Rest
+30.249,44,Hand is at Rest
+30.35,51,Hand is at Rest
+30.45,56,Hand is Moving
+30.551,59,Hand is Moving
+30.651,64,Hand is Moving
+30.752,63,Hand is Moving
+30.853,62,Hand is Moving
+30.953,60,Hand is Moving
+31.053,58,Hand is Moving
+31.154,59,Hand is Moving
+31.254,61,Hand is Moving
+31.355,58,Hand is Moving
+31.456,56,Hand is Moving
+31.556,53,Hand is Moving
+31.656,79,Hand is Moving
+31.757,88,Hand is Moving
+31.857,107,Hand is Moving
+31.959,131,Hand is Moving
+32.059,145,Hand is Moving
+32.159,161,Hand is Moving
+32.26,178,Hand is Moving
+32.36,204,Hand is Moving
+32.46,217,Hand is Moving
+32.562,230,Hand is Moving
+32.662,212,Hand is Moving
+32.762,215,Hand is Moving
+32.863,206,Hand is Moving
+32.963,189,Hand is Moving
+33.063,183,Hand is Moving
+33.165,165,Hand is Moving
+33.265,141,Hand is Moving
+33.366,116,Hand is Moving
+33.466,107,Hand is Moving
+33.566,95,Hand is Moving
+33.667,83,Hand is Moving
+33.767,70,Hand is Moving
+33.868,58,Hand is Moving
+33.969,46,Hand is at Rest
+34.069,34,Hand is at Rest
+34.169,27,Hand is at Rest
+34.27,22,Hand is at Rest
+34.37,15,Hand is at Rest
+34.47,9,Hand is at Rest
+34.572,8,Hand is at Rest
+34.672,7,Hand is at Rest
+34.772,8,Hand is at Rest
+34.873,9,Hand is at Rest
+34.973,9,Hand is at Rest
+35.074,9,Hand is at Rest
+35.174,12,Hand is at Rest
+35.274,14,Hand is at Rest
+35.376,14,Hand is at Rest
+35.476,14,Hand is at Rest
+35.576,18,Hand is at Rest
+35.677,21,Hand is at Rest
+35.777,20,Hand is at Rest
+35.877,19,Hand is at Rest
+35.979,19,Hand is at Rest
+36.079,18,Hand is at Rest
+36.179,15,Hand is at Rest
+36.28,14,Hand is at Rest
+36.38,16,Hand is at Rest
+36.481,16,Hand is at Rest
+36.582,15,Hand is at Rest
+36.682,16,Hand is at Rest
+36.783,21,Hand is at Rest
+36.883,30,Hand is at Rest
+36.983,33,Hand is at Rest
+37.084,35,Hand is at Rest
+37.185,40,Hand is at Rest
+37.285,46,Hand is at Rest
+37.386,51,Hand is at Rest
+37.486,57,Hand is Moving
+37.586,61,Hand is Moving
+37.687,61,Hand is Moving
+37.788,57,Hand is Moving
+37.889,49,Hand is at Rest
+37.989,45,Hand is at Rest
+38.089,42,Hand is at Rest
+38.19,37,Hand is at Rest
+38.29,31,Hand is at Rest
+38.391,24,Hand is at Rest
+38.492,19,Hand is at Rest
+38.592,12,Hand is at Rest
+38.692,11,Hand is at Rest
+38.793,14,Hand is at Rest
+38.893,17,Hand is at Rest
+38.993,20,Hand is at Rest
+39.095,22,Hand is at Rest
+39.195,24,Hand is at Rest
+39.296,24,Hand is at Rest
+39.396,29,Hand is at Rest
+39.496,29,Hand is at Rest
+39.597,29,Hand is at Rest
+39.698,27,Hand is at Rest
+39.798,24,Hand is at Rest
+39.899,21,Hand is at Rest
+39.999,23,Hand is at Rest
+40.099,24,Hand is at Rest
+40.2,30,Hand is at Rest
+40.301,33,Hand is at Rest
+40.401,35,Hand is at Rest
+40.502,36,Hand is at Rest
+40.602,42,Hand is at Rest
+40.702,45,Hand is at Rest
+40.803,51,Hand is at Rest
+40.904,53,Hand is Moving
+41.005,53,Hand is Moving
+41.105,55,Hand is Moving
+41.205,58,Hand is Moving
+41.306,62,Hand is Moving
+41.406,64,Hand is Moving
+41.507,72,Hand is Moving
+41.608,79,Hand is Moving
+41.708,92,Hand is Moving
+41.808,102,Hand is Moving
+41.909,115,Hand is Moving
+42.009,125,Hand is Moving
+42.11,126,Hand is Moving
+42.211,119,Hand is Moving
+42.311,113,Hand is Moving
+42.412,105,Hand is Moving
+42.512,95,Hand is Moving
+42.612,82,Hand is Moving
+42.714,67,Hand is Moving
+42.814,56,Hand is Moving
+42.914,45,Hand is at Rest
+43.015,35,Hand is at Rest
+43.115,28,Hand is at Rest
+43.215,25,Hand is at Rest
+43.316,27,Hand is at Rest
+43.417,29,Hand is at Rest
+43.517,27,Hand is at Rest
+43.618,29,Hand is at Rest
+43.718,28,Hand is at Rest
+43.819,25,Hand is at Rest
+43.919,20,Hand is at Rest
+44.02,17,Hand is at Rest
+44.121,17,Hand is at Rest
+44.221,17,Hand is at Rest
+44.321,17,Hand is at Rest
+44.422,17,Hand is at Rest
+44.522,21,Hand is at Rest
+44.622,20,Hand is at Rest
+44.724,22,Hand is at Rest
+44.824,23,Hand is at Rest
+44.924,23,Hand is at Rest
+45.025,23,Hand is at Rest
+45.125,25,Hand is at Rest
+45.225,25,Hand is at Rest
+45.327,25,Hand is at Rest
+45.427,25,Hand is at Rest
+45.528,29,Hand is at Rest
+45.628,33,Hand is at Rest
+45.728,39,Hand is at Rest
+45.829,44,Hand is at Rest
+45.93,58,Hand is Moving
+46.03,72,Hand is Moving
+46.131,73,Hand is Moving
+46.231,77,Hand is Moving
+46.331,86,Hand is Moving
+46.432,82,Hand is Moving
+46.533,85,Hand is Moving
+46.633,86,Hand is Moving
+46.734,89,Hand is Moving
+46.834,94,Hand is Moving
+46.935,88,Hand is Moving
+47.035,83,Hand is Moving
+47.136,87,Hand is Moving
+47.237,84,Hand is Moving
+47.337,72,Hand is Moving
+47.437,74,Hand is Moving
+47.538,65,Hand is Moving
+47.638,61,Hand is Moving
+47.739,49,Hand is at Rest
+47.84,36,Hand is at Rest
+47.94,32,Hand is at Rest
+48.04,25,Hand is at Rest
+48.141,21,Hand is at Rest
+48.241,21,Hand is at Rest
+48.342,24,Hand is at Rest
+48.443,27,Hand is at Rest
+48.543,26,Hand is at Rest
+48.644,24,Hand is at Rest
+48.744,25,Hand is at Rest
+48.844,27,Hand is at Rest
+48.945,29,Hand is at Rest
+49.046,30,Hand is at Rest
+49.146,30,Hand is at Rest
+49.247,29,Hand is at Rest
+49.347,32,Hand is at Rest
+49.447,33,Hand is at Rest
+49.548,37,Hand is at Rest
+49.649,37,Hand is at Rest
+49.75,40,Hand is at Rest
+49.85,39,Hand is at Rest
+49.95,37,Hand is at Rest
+50.051,35,Hand is at Rest
+50.151,31,Hand is at Rest
+50.252,32,Hand is at Rest
+50.353,33,Hand is at Rest
+50.453,30,Hand is at Rest
+50.553,29,Hand is at Rest
+50.654,32,Hand is at Rest
+50.754,39,Hand is at Rest
+50.855,51,Hand is at Rest
+50.956,76,Hand is Moving
+51.056,77,Hand is Moving
+51.156,82,Hand is Moving
+51.257,79,Hand is Moving
+51.357,76,Hand is Moving
+51.459,74,Hand is Moving
+51.559,82,Hand is Moving
+51.659,96,Hand is Moving
+51.76,101,Hand is Moving
+51.86,103,Hand is Moving
+51.96,90,Hand is Moving
+52.062,106,Hand is Moving
+52.162,113,Hand is Moving
+52.262,125,Hand is Moving
+52.363,129,Hand is Moving
+52.463,131,Hand is Moving
+52.563,123,Hand is Moving
+52.664,106,Hand is Moving
+52.765,94,Hand is Moving
+52.866,84,Hand is Moving
+52.966,75,Hand is Moving
+53.066,59,Hand is Moving
+53.167,51,Hand is at Rest
+53.267,42,Hand is at Rest
+53.367,37,Hand is at Rest
+53.469,37,Hand is at Rest
+53.569,34,Hand is at Rest
+53.669,31,Hand is at Rest
+53.77,28,Hand is at Rest
+53.87,22,Hand is at Rest
+53.97,17,Hand is at Rest
+54.071,15,Hand is at Rest
+54.171,11,Hand is at Rest
+54.273,8,Hand is at Rest
+54.373,5,Hand is at Rest
+54.473,3,Hand is at Rest
+54.574,4,Hand is at Rest
+54.674,4,Hand is at Rest
+54.774,6,Hand is at Rest
+54.875,7,Hand is at Rest
+54.976,8,Hand is at Rest
+55.076,11,Hand is at Rest
+55.177,15,Hand is at Rest
+55.277,17,Hand is at Rest
+55.377,20,Hand is at Rest
+55.478,22,Hand is at Rest
+55.579,22,Hand is at Rest
+55.68,24,Hand is at Rest
+55.78,25,Hand is at Rest
+55.88,27,Hand is at Rest
+55.981,33,Hand is at Rest
+56.081,39,Hand is at Rest
+56.181,40,Hand is at Rest
+56.283,53,Hand is Moving
+56.383,58,Hand is Moving
+56.483,58,Hand is Moving
+56.584,58,Hand is Moving
+56.684,64,Hand is Moving
+56.784,70,Hand is Moving
+56.886,76,Hand is Moving
+56.986,81,Hand is Moving
+57.086,83,Hand is Moving
+57.187,87,Hand is Moving
+57.287,81,Hand is Moving
+57.388,77,Hand is Moving
+57.489,77,Hand is Moving
+57.589,81,Hand is Moving
+57.69,77,Hand is Moving
+57.79,69,Hand is Moving
+57.89,62,Hand is Moving
+57.991,55,Hand is Moving
+58.092,49,Hand is at Rest
+58.192,45,Hand is at Rest
+58.293,37,Hand is at Rest
+58.393,33,Hand is at Rest
+58.493,33,Hand is at Rest
+58.594,29,Hand is at Rest
+58.694,27,Hand is at Rest
+58.796,25,Hand is at Rest
+58.896,24,Hand is at Rest
+58.996,22,Hand is at Rest
+59.097,19,Hand is at Rest
+59.197,15,Hand is at Rest
+59.297,14,Hand is at Rest
+59.399,15,Hand is at Rest
+59.499,19,Hand is at Rest
+59.599,24,Hand is at Rest
+59.7,29,Hand is at Rest
+59.8,36,Hand is at Rest
+59.9,37,Hand is at Rest
+60.002,37,Hand is at Rest
+60.102,41,Hand is at Rest
+60.203,41,Hand is at Rest
+60.303,41,Hand is at Rest
+60.403,41,Hand is at Rest
+60.504,39,Hand is at Rest
+60.605,41,Hand is at Rest
+60.705,36,Hand is at Rest
+60.806,34,Hand is at Rest
+60.906,36,Hand is at Rest
+61.006,34,Hand is at Rest
+61.107,30,Hand is at Rest
+61.207,37,Hand is at Rest
+61.308,38,Hand is at Rest
+61.409,41,Hand is at Rest
+61.509,42,Hand is at Rest
+61.609,45,Hand is at Rest
+61.71,53,Hand is Moving
+61.81,59,Hand is Moving
+61.912,61,Hand is Moving
+62.012,68,Hand is Moving
+62.112,73,Hand is Moving
+62.213,70,Hand is Moving
+62.313,72,Hand is Moving
+62.413,69,Hand is Moving
+62.515,65,Hand is Moving
+62.615,57,Hand is Moving
+62.715,51,Hand is at Rest
+62.816,40,Hand is at Rest
+62.916,31,Hand is at Rest
+63.016,25,Hand is at Rest
+63.118,24,Hand is at Rest
+0.0,20,Hand is at Rest
+0.1,18,Hand is at Rest
+0.2,18,Hand is at Rest
+0.301,18,Hand is at Rest
+0.401,16,Hand is at Rest
+0.501,16,Hand is at Rest
+0.602,19,Hand is at Rest
+0.702,18,Hand is at Rest
+0.802,18,Hand is at Rest
+0.903,14,Hand is at Rest
+1.003,13,Hand is at Rest
+1.103,11,Hand is at Rest
+1.205,9,Hand is at Rest
+1.305,8,Hand is at Rest
+1.405,8,Hand is at Rest
+1.506,6,Hand is at Rest
+1.606,4,Hand is at Rest
+1.707,5,Hand is at Rest
+1.807,6,Hand is at Rest
+1.907,7,Hand is at Rest
+2.009,7,Hand is at Rest
+2.109,8,Hand is at Rest
+2.209,8,Hand is at Rest
+2.31,8,Hand is at Rest
+2.41,7,Hand is at Rest
+2.51,8,Hand is at Rest
+2.611,7,Hand is at Rest
+2.711,8,Hand is at Rest
+2.811,6,Hand is at Rest
+2.913,6,Hand is at Rest
+3.013,5,Hand is at Rest
+3.113,4,Hand is at Rest
+3.214,5,Hand is at Rest
+3.314,6,Hand is at Rest
+3.415,7,Hand is at Rest
+3.515,9,Hand is at Rest
+3.615,11,Hand is at Rest
+3.717,14,Hand is at Rest
+3.817,15,Hand is at Rest
+3.917,20,Hand is at Rest
+4.018,22,Hand is at Rest
+4.118,22,Hand is at Rest
+4.218,23,Hand is at Rest
+4.319,27,Hand is at Rest
+4.419,30,Hand is at Rest
+4.52,31,Hand is at Rest
+4.621,31,Hand is at Rest
+4.721,29,Hand is at Rest
+4.822,29,Hand is at Rest
+4.922,23,Hand is at Rest
+5.022,21,Hand is at Rest
+5.123,21,Hand is at Rest
+5.223,21,Hand is at Rest
+5.323,18,Hand is at Rest
+5.425,16,Hand is at Rest
+5.525,14,Hand is at Rest
+5.625,13,Hand is at Rest
+5.726,17,Hand is at Rest
+5.826,28,Hand is at Rest
+5.926,42,Hand is at Rest
+6.027,44,Hand is at Rest
+6.127,45,Hand is at Rest
+6.228,44,Hand is at Rest
+6.329,45,Hand is at Rest
+6.429,52,Hand is at Rest
+6.53,60,Hand is Moving
+6.63,59,Hand is Moving
+6.73,54,Hand is Moving
+6.831,46,Hand is at Rest
+6.931,38,Hand is at Rest
+7.032,46,Hand is at Rest
+7.133,53,Hand is Moving
+7.233,63,Hand is Moving
+7.333,71,Hand is Moving
+7.434,70,Hand is Moving
+7.534,68,Hand is Moving
+7.634,71,Hand is Moving
+7.735,71,Hand is Moving
+7.835,68,Hand is Moving
+7.937,62,Hand is Moving
+8.037,54,Hand is Moving
+8.137,45,Hand is at Rest
+8.238,36,Hand is at Rest
+8.338,26,Hand is at Rest
+8.438,20,Hand is at Rest
+8.539,14,Hand is at Rest
+8.639,10,Hand is at Rest
+8.74,10,Hand is at Rest
+8.841,11,Hand is at Rest
+8.941,10,Hand is at Rest
+9.041,10,Hand is at Rest
+9.142,10,Hand is at Rest
+9.242,8,Hand is at Rest
+9.342,8,Hand is at Rest
+9.443,6,Hand is at Rest
+9.544,7,Hand is at Rest
+9.645,7,Hand is at Rest
+9.745,6,Hand is at Rest
+9.845,5,Hand is at Rest
+9.946,5,Hand is at Rest
+10.046,4,Hand is at Rest
+10.146,4,Hand is at Rest
+10.247,4,Hand is at Rest
+10.348,4,Hand is at Rest
+10.448,4,Hand is at Rest
+10.549,3,Hand is at Rest
+10.649,4,Hand is at Rest
+10.749,5,Hand is at Rest
+10.85,6,Hand is at Rest
+10.951,7,Hand is at Rest
+11.052,7,Hand is at Rest
+11.152,7,Hand is at Rest
+11.252,8,Hand is at Rest
+11.353,7,Hand is at Rest
+11.453,8,Hand is at Rest
+11.554,8,Hand is at Rest
+11.655,7,Hand is at Rest
+11.755,7,Hand is at Rest
+11.855,11,Hand is at Rest
+11.956,16,Hand is at Rest
+12.056,23,Hand is at Rest
+12.156,30,Hand is at Rest
+12.258,37,Hand is at Rest
+12.358,48,Hand is at Rest
+12.459,61,Hand is Moving
+12.559,61,Hand is Moving
+12.659,62,Hand is Moving
+12.76,66,Hand is Moving
+12.861,64,Hand is Moving
+12.961,65,Hand is Moving
+13.062,66,Hand is Moving
+13.162,66,Hand is Moving
+13.262,62,Hand is Moving
+13.363,58,Hand is Moving
+13.464,50,Hand is at Rest
+13.564,66,Hand is Moving
+13.665,66,Hand is Moving
+13.765,69,Hand is Moving
+13.865,72,Hand is Moving
+13.966,67,Hand is Moving
+14.067,61,Hand is Moving
+14.168,57,Hand is Moving
+14.268,61,Hand is Moving
+14.368,57,Hand is Moving
+14.469,61,Hand is Moving
+14.569,45,Hand is at Rest
+14.67,53,Hand is Moving
+14.771,46,Hand is at Rest
+14.871,46,Hand is at Rest
+14.971,51,Hand is at Rest
+15.072,67,Hand is Moving
+15.172,85,Hand is Moving
+15.272,99,Hand is Moving
+15.374,120,Hand is Moving
+15.474,134,Hand is Moving
+15.575,158,Hand is Moving
+15.675,166,Hand is Moving
+15.775,172,Hand is Moving
+15.876,169,Hand is Moving
+15.977,163,Hand is Moving
+16.077,146,Hand is Moving
+16.178,126,Hand is Moving
+16.278,106,Hand is Moving
+16.378,82,Hand is Moving
+16.479,58,Hand is Moving
+16.58,36,Hand is at Rest
+16.68,20,Hand is at Rest
+16.781,14,Hand is at Rest
+16.881,11,Hand is at Rest
+16.982,11,Hand is at Rest
+17.082,12,Hand is at Rest
+17.183,11,Hand is at Rest
+17.284,10,Hand is at Rest
+17.384,10,Hand is at Rest
+17.484,10,Hand is at Rest
+17.585,8,Hand is at Rest
+17.685,7,Hand is at Rest
+17.785,6,Hand is at Rest
+17.887,5,Hand is at Rest
+17.987,3,Hand is at Rest
+18.087,3,Hand is at Rest
+18.188,2,Hand is at Rest
+18.288,2,Hand is at Rest
+18.388,2,Hand is at Rest
+18.49,3,Hand is at Rest
+18.59,5,Hand is at Rest
+18.691,8,Hand is at Rest
+18.791,12,Hand is at Rest
+18.891,21,Hand is at Rest
+18.992,28,Hand is at Rest
+19.093,41,Hand is at Rest
+19.193,53,Hand is Moving
+19.294,65,Hand is Moving
+19.394,78,Hand is Moving
+19.494,91,Hand is Moving
+19.595,92,Hand is Moving
+19.696,97,Hand is Moving
+19.796,95,Hand is Moving
+19.897,88,Hand is Moving
+19.997,81,Hand is Moving
+20.098,69,Hand is Moving
+20.198,64,Hand is Moving
+20.299,59,Hand is Moving
+20.4,56,Hand is Moving
+20.5,51,Hand is at Rest
+20.6,62,Hand is Moving
+20.701,61,Hand is Moving
+20.801,59,Hand is Moving
+20.901,65,Hand is Moving
+21.003,65,Hand is Moving
+21.103,71,Hand is Moving
+21.203,69,Hand is Moving
+21.304,64,Hand is Moving
+21.404,60,Hand is Moving
+21.505,55,Hand is Moving
+21.606,49,Hand is at Rest
+21.706,52,Hand is at Rest
+21.807,68,Hand is Moving
+21.907,79,Hand is Moving
+22.007,99,Hand is Moving
+22.108,118,Hand is Moving
+22.209,140,Hand is Moving
+22.309,166,Hand is Moving
+22.41,187,Hand is Moving
+22.51,193,Hand is Moving
+22.61,195,Hand is Moving
+22.711,195,Hand is Moving
+22.812,182,Hand is Moving
+22.913,165,Hand is Moving
+23.013,146,Hand is Moving
+23.113,122,Hand is Moving
+23.214,96,Hand is Moving
+23.314,68,Hand is Moving
+23.415,41,Hand is at Rest
+23.516,31,Hand is at Rest
+23.616,22,Hand is at Rest
+23.716,15,Hand is at Rest
+23.817,12,Hand is at Rest
+23.917,10,Hand is at Rest
+24.018,9,Hand is at Rest
+24.119,9,Hand is at Rest
+24.219,8,Hand is at Rest
+24.32,9,Hand is at Rest
+24.42,10,Hand is at Rest
+24.52,9,Hand is at Rest
+24.621,9,Hand is at Rest
+24.722,8,Hand is at Rest
+24.822,8,Hand is at Rest
+24.923,8,Hand is at Rest
+25.023,7,Hand is at Rest
+25.123,5,Hand is at Rest
+25.224,5,Hand is at Rest
+25.325,5,Hand is at Rest
+25.425,4,Hand is at Rest
+25.526,5,Hand is at Rest
+25.626,7,Hand is at Rest
+25.726,8,Hand is at Rest
+25.827,10,Hand is at Rest
+25.928,15,Hand is at Rest
+26.029,20,Hand is at Rest
+26.129,26,Hand is at Rest
+26.229,36,Hand is at Rest
+26.33,43,Hand is at Rest
+26.43,58,Hand is Moving
+26.531,71,Hand is Moving
+26.632,83,Hand is Moving
+26.732,86,Hand is Moving
+26.832,102,Hand is Moving
+26.933,110,Hand is Moving
+27.033,130,Hand is Moving
+27.134,150,Hand is Moving
+27.235,153,Hand is Moving
+27.335,172,Hand is Moving
+27.436,186,Hand is Moving
+27.536,188,Hand is Moving
+27.636,192,Hand is Moving
+27.738,197,Hand is Moving
+27.838,196,Hand is Moving
+27.938,203,Hand is Moving
+28.039,191,Hand is Moving
+28.139,184,Hand is Moving
+28.239,171,Hand is Moving
+28.341,168,Hand is Moving
+28.441,161,Hand is Moving
+28.541,171,Hand is Moving
+28.642,180,Hand is Moving
+28.742,199,Hand is Moving
+28.843,217,Hand is Moving
+28.944,228,Hand is Moving
+29.044,232,Hand is Moving
+29.145,235,Hand is Moving
+29.245,247,Hand is Moving
+29.345,230,Hand is Moving
+29.446,217,Hand is Moving
+29.547,191,Hand is Moving
+29.647,166,Hand is Moving
+29.748,140,Hand is Moving
+29.848,106,Hand is Moving
+29.948,76,Hand is Moving
+30.049,61,Hand is Moving
+30.15,43,Hand is at Rest
+30.251,31,Hand is at Rest
+30.351,26,Hand is at Rest
+30.451,18,Hand is at Rest
+30.552,18,Hand is at Rest
+30.652,17,Hand is at Rest
+30.753,16,Hand is at Rest
+30.854,15,Hand is at Rest
+30.954,14,Hand is at Rest
+31.054,11,Hand is at Rest
+31.155,10,Hand is at Rest
+31.255,8,Hand is at Rest
+31.355,7,Hand is at Rest
+31.457,7,Hand is at Rest
+31.557,7,Hand is at Rest
+31.657,8,Hand is at Rest
+31.758,12,Hand is at Rest
+31.858,17,Hand is at Rest
+31.959,29,Hand is at Rest
+32.06,46,Hand is at Rest
+32.16,64,Hand is Moving
+32.261,86,Hand is Moving
+32.361,102,Hand is Moving
+32.461,117,Hand is Moving
+32.562,145,Hand is Moving
+32.663,165,Hand is Moving
+32.763,169,Hand is Moving
+32.864,172,Hand is Moving
+32.964,170,Hand is Moving
+33.064,168,Hand is Moving
+33.165,168,Hand is Moving
+33.266,159,Hand is Moving
+33.367,166,Hand is Moving
+33.467,159,Hand is Moving
+33.567,142,Hand is Moving
+33.668,130,Hand is Moving
+33.768,131,Hand is Moving
+33.869,127,Hand is Moving
+33.97,122,Hand is Moving
+34.07,108,Hand is Moving
+34.17,89,Hand is Moving
+34.271,76,Hand is Moving
+34.371,56,Hand is Moving
+34.472,62,Hand is Moving
+34.573,69,Hand is Moving
+34.673,65,Hand is Moving
+34.774,65,Hand is Moving
+34.874,80,Hand is Moving
+34.974,94,Hand is Moving
+35.075,118,Hand is Moving
+35.176,145,Hand is Moving
+35.276,171,Hand is Moving
+35.377,182,Hand is Moving
+35.477,183,Hand is Moving
+35.577,174,Hand is Moving
+35.678,175,Hand is Moving
+35.779,168,Hand is Moving
+35.879,150,Hand is Moving
+35.98,131,Hand is Moving
+36.08,107,Hand is Moving
+36.18,82,Hand is Moving
+36.281,56,Hand is Moving
+36.382,42,Hand is at Rest
+36.483,27,Hand is at Rest
+36.583,19,Hand is at Rest
+36.683,12,Hand is at Rest
+36.784,10,Hand is at Rest
+36.884,10,Hand is at Rest
+36.985,10,Hand is at Rest
+37.086,9,Hand is at Rest
+37.186,8,Hand is at Rest
+37.286,7,Hand is at Rest
+37.387,6,Hand is at Rest
+37.487,5,Hand is at Rest
+37.588,4,Hand is at Rest
+37.689,5,Hand is at Rest
+37.789,4,Hand is at Rest
+37.89,5,Hand is at Rest
+37.99,5,Hand is at Rest
+38.09,6,Hand is at Rest
+38.192,6,Hand is at Rest
+38.292,7,Hand is at Rest
+38.392,9,Hand is at Rest
+38.493,10,Hand is at Rest
+38.593,13,Hand is at Rest
+38.693,19,Hand is at Rest
+38.795,27,Hand is at Rest
+38.895,37,Hand is at Rest
+38.995,46,Hand is at Rest
+39.096,61,Hand is Moving
+39.196,80,Hand is Moving
+39.297,110,Hand is Moving
+39.398,138,Hand is Moving
+39.498,168,Hand is Moving
+39.599,180,Hand is Moving
+39.699,174,Hand is Moving
+39.799,170,Hand is Moving
+39.9,172,Hand is Moving
+40.001,178,Hand is Moving
+40.101,180,Hand is Moving
+40.202,166,Hand is Moving
+40.302,139,Hand is Moving
+40.402,124,Hand is Moving
+40.503,106,Hand is Moving
+40.604,102,Hand is Moving
+40.705,112,Hand is Moving
+40.805,119,Hand is Moving
+40.905,111,Hand is Moving
+41.006,115,Hand is Moving
+41.107,125,Hand is Moving
+41.207,143,Hand is Moving
+41.308,174,Hand is Moving
+41.408,196,Hand is Moving
+41.508,220,Hand is Moving
+41.609,239,Hand is Moving
+41.71,246,Hand is Moving
+41.81,250,Hand is Moving
+41.911,260,Hand is Moving
+42.011,247,Hand is Moving
+42.112,224,Hand is Moving
+42.212,201,Hand is Moving
+42.313,167,Hand is Moving
+42.414,130,Hand is Moving
+42.514,94,Hand is Moving
+42.614,65,Hand is Moving
+42.715,47,Hand is at Rest
+42.815,34,Hand is at Rest
+42.915,21,Hand is at Rest
+43.017,16,Hand is at Rest
+43.117,13,Hand is at Rest
+43.217,15,Hand is at Rest
+43.318,16,Hand is at Rest
+43.418,17,Hand is at Rest
+43.518,16,Hand is at Rest
+43.62,15,Hand is at Rest
+43.72,14,Hand is at Rest
+43.821,13,Hand is at Rest
+43.921,11,Hand is at Rest
+44.021,10,Hand is at Rest
+44.122,9,Hand is at Rest
+44.223,7,Hand is at Rest
+44.323,6,Hand is at Rest
+44.424,4,Hand is at Rest
+44.524,5,Hand is at Rest
+44.624,5,Hand is at Rest
+44.725,6,Hand is at Rest
+44.826,6,Hand is at Rest
+44.926,7,Hand is at Rest
+45.027,6,Hand is at Rest
+45.127,8,Hand is at Rest
+45.228,8,Hand is at Rest
+45.328,10,Hand is at Rest
+45.428,10,Hand is at Rest
+45.53,11,Hand is at Rest
+45.63,14,Hand is at Rest
+45.73,23,Hand is at Rest
+45.831,38,Hand is at Rest
+45.931,64,Hand is Moving
+46.031,100,Hand is Moving
+46.133,121,Hand is Moving
+46.233,160,Hand is Moving
+46.333,175,Hand is Moving
+46.434,183,Hand is Moving
+46.534,194,Hand is Moving
+46.635,196,Hand is Moving
+46.736,186,Hand is Moving
+46.836,182,Hand is Moving
+46.937,161,Hand is Moving
+47.037,142,Hand is Moving
+47.137,135,Hand is Moving
+47.238,124,Hand is Moving
+47.339,122,Hand is Moving
+47.439,140,Hand is Moving
+47.54,142,Hand is Moving
+47.64,155,Hand is Moving
+47.74,155,Hand is Moving
+47.841,152,Hand is Moving
+47.942,155,Hand is Moving
+48.043,150,Hand is Moving
+48.143,146,Hand is Moving
+48.243,132,Hand is Moving
+48.344,131,Hand is Moving
+48.444,122,Hand is Moving
+48.545,117,Hand is Moving
+48.646,108,Hand is Moving
+48.746,113,Hand is Moving
+48.846,108,Hand is Moving
+48.947,104,Hand is Moving
+49.047,93,Hand is Moving
+49.148,80,Hand is Moving
+49.249,68,Hand is Moving
+49.349,55,Hand is Moving
+49.449,39,Hand is at Rest
+49.55,27,Hand is at Rest
+49.65,20,Hand is at Rest
+49.751,15,Hand is at Rest
+49.852,12,Hand is at Rest
+49.952,8,Hand is at Rest
+50.053,7,Hand is at Rest
+50.153,7,Hand is at Rest
+50.253,6,Hand is at Rest
+50.354,5,Hand is at Rest
+50.455,5,Hand is at Rest
+50.555,6,Hand is at Rest
+50.656,5,Hand is at Rest
+50.756,7,Hand is at Rest
+50.856,7,Hand is at Rest
+50.957,7,Hand is at Rest
+51.058,7,Hand is at Rest
+51.159,8,Hand is at Rest
+51.259,8,Hand is at Rest
+51.359,8,Hand is at Rest
+51.46,9,Hand is at Rest
+51.56,9,Hand is at Rest
+51.661,10,Hand is at Rest
+51.762,9,Hand is at Rest
+51.862,9,Hand is at Rest
+51.962,10,Hand is at Rest
+52.063,9,Hand is at Rest
+52.163,9,Hand is at Rest
+52.264,10,Hand is at Rest
+52.365,16,Hand is at Rest
+52.465,25,Hand is at Rest
+52.566,41,Hand is at Rest
+52.666,61,Hand is Moving
+52.766,80,Hand is Moving
+52.868,106,Hand is Moving
+52.968,144,Hand is Moving
+53.068,166,Hand is Moving
+53.169,178,Hand is Moving
+53.269,182,Hand is Moving
+53.369,183,Hand is Moving
+53.47,180,Hand is Moving
+53.571,181,Hand is Moving
+53.671,180,Hand is Moving
+53.772,176,Hand is Moving
+53.872,160,Hand is Moving
+53.972,130,Hand is Moving
+54.073,118,Hand is Moving
+54.174,110,Hand is Moving
+54.275,112,Hand is Moving
+54.375,110,Hand is Moving
+54.475,105,Hand is Moving
+54.576,88,Hand is Moving
+54.676,76,Hand is Moving
+54.777,69,Hand is Moving
+54.878,69,Hand is Moving
+54.978,74,Hand is Moving
+55.078,78,Hand is Moving
+55.179,90,Hand is Moving
+55.279,97,Hand is Moving
+55.38,103,Hand is Moving
+55.481,110,Hand is Moving
+55.581,116,Hand is Moving
+55.682,115,Hand is Moving
+55.782,108,Hand is Moving
+55.882,98,Hand is Moving
+55.984,86,Hand is Moving
+56.084,73,Hand is Moving
+56.184,60,Hand is Moving
+56.285,46,Hand is at Rest
+56.385,38,Hand is at Rest
+56.485,31,Hand is at Rest
+56.587,25,Hand is at Rest
+56.687,19,Hand is at Rest
+56.787,18,Hand is at Rest
+56.888,16,Hand is at Rest
+56.988,17,Hand is at Rest
+57.089,16,Hand is at Rest
+57.19,14,Hand is at Rest
+57.29,14,Hand is at Rest
+57.391,11,Hand is at Rest
+57.491,9,Hand is at Rest
+57.591,8,Hand is at Rest
+57.692,8,Hand is at Rest
+57.793,9,Hand is at Rest
+57.893,9,Hand is at Rest
+57.994,7,Hand is at Rest
+58.094,6,Hand is at Rest
+58.194,7,Hand is at Rest
+58.295,7,Hand is at Rest
+58.396,8,Hand is at Rest
+58.497,8,Hand is at Rest
+58.597,9,Hand is at Rest
+58.697,10,Hand is at Rest
+58.798,17,Hand is at Rest
+58.898,29,Hand is at Rest
+58.998,43,Hand is at Rest
+59.1,57,Hand is Moving
+59.2,75,Hand is Moving
+59.3,99,Hand is Moving
+59.401,128,Hand is Moving
+59.501,146,Hand is Moving
+59.601,167,Hand is Moving
+59.703,179,Hand is Moving
+59.803,175,Hand is Moving
+59.904,163,Hand is Moving
+60.004,163,Hand is Moving
+60.104,157,Hand is Moving
+60.205,147,Hand is Moving
+60.306,129,Hand is Moving
+60.406,105,Hand is Moving
+60.507,93,Hand is Moving
+60.607,78,Hand is Moving
+60.707,72,Hand is Moving
+60.808,77,Hand is Moving
+60.909,85,Hand is Moving
+61.009,76,Hand is Moving
+61.11,77,Hand is Moving
+61.21,79,Hand is Moving
+61.31,73,Hand is Moving
+61.411,66,Hand is Moving
+61.512,70,Hand is Moving
+61.613,82,Hand is Moving
+61.713,99,Hand is Moving
+61.813,114,Hand is Moving
+61.914,130,Hand is Moving
+62.014,144,Hand is Moving
+62.115,154,Hand is Moving
+62.216,160,Hand is Moving
+62.316,167,Hand is Moving
+62.416,168,Hand is Moving
+62.517,161,Hand is Moving
+62.617,145,Hand is Moving
+62.718,122,Hand is Moving
+62.819,99,Hand is Moving
+62.919,75,Hand is Moving
+63.02,55,Hand is Moving
+63.12,35,Hand is at Rest
+63.22,20,Hand is at Rest
+63.322,13,Hand is at Rest
+63.422,12,Hand is at Rest
+63.522,9,Hand is at Rest
+63.623,6,Hand is at Rest
+63.723,5,Hand is at Rest
+63.823,5,Hand is at Rest
+63.925,4,Hand is at Rest
+64.025,4,Hand is at Rest
+64.125,5,Hand is at Rest
+64.226,5,Hand is at Rest
+0.0,6,Hand is at Rest
+0.1,6,Hand is at Rest
+0.2,6,Hand is at Rest
+0.301,6,Hand is at Rest
+0.401,6,Hand is at Rest
+0.501,5,Hand is at Rest
+0.602,7,Hand is at Rest
+0.702,9,Hand is at Rest
+0.802,9,Hand is at Rest
+0.903,9,Hand is at Rest
+1.003,9,Hand is at Rest
+1.103,9,Hand is at Rest
+1.205,8,Hand is at Rest
+1.305,8,Hand is at Rest
+1.405,10,Hand is at Rest
+1.506,11,Hand is at Rest
+1.606,12,Hand is at Rest
+1.707,12,Hand is at Rest
+1.807,11,Hand is at Rest
+1.907,14,Hand is at Rest
+2.008,14,Hand is at Rest
+2.109,16,Hand is at Rest
+2.209,18,Hand is at Rest
+2.31,23,Hand is at Rest
+2.41,25,Hand is at Rest
+2.51,28,Hand is at Rest
+2.611,30,Hand is at Rest
+2.711,33,Hand is at Rest
+2.811,37,Hand is at Rest
+2.913,37,Hand is at Rest
+3.013,37,Hand is at Rest
+3.113,41,Hand is at Rest
+3.214,44,Hand is at Rest
+3.314,45,Hand is at Rest
+3.415,52,Hand is at Rest
+3.515,57,Hand is Moving
+3.615,59,Hand is Moving
+3.717,63,Hand is Moving
+3.817,72,Hand is Moving
+3.917,88,Hand is Moving
+4.018,99,Hand is Moving
+4.118,104,Hand is Moving
+4.218,101,Hand is Moving
+4.319,97,Hand is Moving
+4.419,92,Hand is Moving
+4.519,93,Hand is Moving
+4.621,91,Hand is Moving
+4.721,82,Hand is Moving
+4.822,80,Hand is Moving
+4.922,63,Hand is Moving
+5.022,62,Hand is Moving
+5.123,65,Hand is Moving
+5.223,79,Hand is Moving
+5.323,98,Hand is Moving
+5.425,107,Hand is Moving
+5.525,115,Hand is Moving
+5.625,129,Hand is Moving
+5.726,137,Hand is Moving
+5.826,137,Hand is Moving
+5.926,141,Hand is Moving
+6.027,136,Hand is Moving
+6.127,129,Hand is Moving
+6.228,114,Hand is Moving
+6.329,96,Hand is Moving
+6.429,84,Hand is Moving
+6.53,64,Hand is Moving
+6.63,50,Hand is at Rest
+6.73,41,Hand is at Rest
+6.831,31,Hand is at Rest
+6.931,25,Hand is at Rest
+7.031,19,Hand is at Rest
+7.133,14,Hand is at Rest
+7.233,11,Hand is at Rest
+7.333,9,Hand is at Rest
+7.434,8,Hand is at Rest
+7.534,8,Hand is at Rest
+7.634,6,Hand is at Rest
+7.735,5,Hand is at Rest
+7.835,5,Hand is at Rest
+7.937,6,Hand is at Rest
+8.037,5,Hand is at Rest
+8.137,5,Hand is at Rest
+8.238,5,Hand is at Rest
+8.338,5,Hand is at Rest
+8.438,6,Hand is at Rest
+8.539,6,Hand is at Rest
+8.639,8,Hand is at Rest
+8.74,10,Hand is at Rest
+8.841,12,Hand is at Rest
+8.941,12,Hand is at Rest
+9.041,13,Hand is at Rest
+9.142,15,Hand is at Rest
+9.242,18,Hand is at Rest
+9.342,21,Hand is at Rest
+9.443,23,Hand is at Rest
+9.543,30,Hand is at Rest
+9.645,38,Hand is at Rest
+9.745,38,Hand is at Rest
+9.845,44,Hand is at Rest
+9.946,63,Hand is Moving
+10.046,71,Hand is Moving
+10.146,69,Hand is Moving
+10.247,76,Hand is Moving
+10.348,88,Hand is Moving
+10.448,105,Hand is Moving
+10.549,115,Hand is Moving
+10.649,126,Hand is Moving
+10.749,138,Hand is Moving
+10.85,139,Hand is Moving
+10.951,126,Hand is Moving
+11.052,122,Hand is Moving
+11.152,123,Hand is Moving
+11.252,114,Hand is Moving
+11.353,102,Hand is Moving
+11.453,82,Hand is Moving
+11.553,67,Hand is Moving
+11.655,50,Hand is at Rest
+11.755,39,Hand is at Rest
+11.855,30,Hand is at Rest
+11.956,24,Hand is at Rest
+12.056,21,Hand is at Rest
+12.156,20,Hand is at Rest
+12.258,19,Hand is at Rest
+12.358,17,Hand is at Rest
+12.459,17,Hand is at Rest
+12.559,13,Hand is at Rest
+12.659,10,Hand is at Rest
+12.76,7,Hand is at Rest
+12.861,7,Hand is at Rest
+12.961,6,Hand is at Rest
+13.062,5,Hand is at Rest
+13.162,5,Hand is at Rest
+13.262,6,Hand is at Rest
+13.363,6,Hand is at Rest
+13.464,7,Hand is at Rest
+13.564,10,Hand is at Rest
+13.665,12,Hand is at Rest
+13.765,11,Hand is at Rest
+13.865,13,Hand is at Rest
+13.966,16,Hand is at Rest
+14.066,16,Hand is at Rest
+14.168,19,Hand is at Rest
+14.268,19,Hand is at Rest
+14.368,22,Hand is at Rest
+14.469,21,Hand is at Rest
+14.569,19,Hand is at Rest
+14.669,19,Hand is at Rest
+14.771,22,Hand is at Rest
+14.871,26,Hand is at Rest
+14.971,29,Hand is at Rest
+15.072,34,Hand is at Rest
+15.172,31,Hand is at Rest
+15.272,32,Hand is at Rest
+15.374,31,Hand is at Rest
+15.474,33,Hand is at Rest
+15.575,35,Hand is at Rest
+15.675,33,Hand is at Rest
+15.775,33,Hand is at Rest
+15.876,35,Hand is at Rest
+15.977,31,Hand is at Rest
+16.077,34,Hand is at Rest
+16.178,41,Hand is at Rest
+16.278,42,Hand is at Rest
+16.378,44,Hand is at Rest
+16.479,46,Hand is at Rest
+16.58,46,Hand is at Rest
+16.68,55,Hand is Moving
+16.781,60,Hand is Moving
+16.881,61,Hand is Moving
+16.982,66,Hand is Moving
+17.082,64,Hand is Moving
+17.183,63,Hand is Moving
+17.284,67,Hand is Moving
+17.384,64,Hand is Moving
+17.484,61,Hand is Moving
+17.585,62,Hand is Moving
+17.685,53,Hand is Moving
+17.785,43,Hand is at Rest
+17.887,35,Hand is at Rest
+17.987,28,Hand is at Rest
+18.087,23,Hand is at Rest
+18.188,17,Hand is at Rest
+18.288,11,Hand is at Rest
+18.388,11,Hand is at Rest
+18.49,8,Hand is at Rest
+18.59,6,Hand is at Rest
+18.691,8,Hand is at Rest
+18.791,8,Hand is at Rest
+18.891,7,Hand is at Rest
+18.992,8,Hand is at Rest
+19.093,8,Hand is at Rest
+19.193,7,Hand is at Rest
+19.294,8,Hand is at Rest
+19.394,9,Hand is at Rest
+19.494,9,Hand is at Rest
+19.595,8,Hand is at Rest
+19.696,8,Hand is at Rest
+19.796,8,Hand is at Rest
+19.897,8,Hand is at Rest
+19.997,10,Hand is at Rest
+20.098,10,Hand is at Rest
+20.198,11,Hand is at Rest
+20.299,10,Hand is at Rest
+20.4,9,Hand is at Rest
+20.5,14,Hand is at Rest
+20.6,16,Hand is at Rest
+20.701,22,Hand is at Rest
+20.801,23,Hand is at Rest
+20.901,35,Hand is at Rest
+21.003,34,Hand is at Rest
+21.103,49,Hand is at Rest
+21.203,59,Hand is Moving
+21.304,70,Hand is Moving
+21.404,102,Hand is Moving
+21.505,115,Hand is Moving
+21.606,126,Hand is Moving
+21.706,151,Hand is Moving
+21.807,170,Hand is Moving
+21.907,182,Hand is Moving
+22.007,207,Hand is Moving
+22.108,225,Hand is Moving
+22.209,251,Hand is Moving
+22.309,275,Hand is Moving
+22.41,279,Hand is Moving
+22.51,272,Hand is Moving
+22.61,270,Hand is Moving
+22.711,247,Hand is Moving
+22.812,232,Hand is Moving
+22.913,211,Hand is Moving
+23.013,186,Hand is Moving
+23.113,157,Hand is Moving
+23.214,125,Hand is Moving
+23.314,94,Hand is Moving
+23.414,57,Hand is Moving
+23.516,47,Hand is at Rest
+23.616,37,Hand is at Rest
+23.716,29,Hand is at Rest
+23.817,25,Hand is at Rest
+23.917,26,Hand is at Rest
+24.017,24,Hand is at Rest
+24.119,21,Hand is at Rest
+24.219,18,Hand is at Rest
+24.32,15,Hand is at Rest
+24.42,15,Hand is at Rest
+24.52,14,Hand is at Rest
+24.621,14,Hand is at Rest
+24.722,13,Hand is at Rest
+24.822,12,Hand is at Rest
+24.923,10,Hand is at Rest
+25.023,8,Hand is at Rest
+25.123,8,Hand is at Rest
+25.224,10,Hand is at Rest
+25.325,12,Hand is at Rest
+25.425,12,Hand is at Rest
+25.526,14,Hand is at Rest
+25.626,16,Hand is at Rest
+25.726,20,Hand is at Rest
+25.827,21,Hand is at Rest
+25.928,22,Hand is at Rest
+26.029,27,Hand is at Rest
+26.129,30,Hand is at Rest
+26.229,36,Hand is at Rest
+26.33,34,Hand is at Rest
+26.43,37,Hand is at Rest
+26.53,38,Hand is at Rest
+26.632,40,Hand is at Rest
+26.732,45,Hand is at Rest
+26.832,64,Hand is Moving
+26.933,78,Hand is Moving
+27.033,95,Hand is Moving
+27.133,113,Hand is Moving
+27.235,132,Hand is Moving
+27.335,141,Hand is Moving
+27.436,161,Hand is Moving
+27.536,179,Hand is Moving
+27.636,205,Hand is Moving
+27.737,226,Hand is Moving
+27.838,236,Hand is Moving
+27.938,252,Hand is Moving
+28.039,255,Hand is Moving
+28.139,243,Hand is Moving
+28.239,224,Hand is Moving
+28.34,220,Hand is Moving
+28.441,198,Hand is Moving
+28.541,180,Hand is Moving
+28.642,152,Hand is Moving
+28.742,122,Hand is Moving
+28.843,91,Hand is Moving
+28.943,62,Hand is Moving
+29.044,38,Hand is at Rest
+29.145,28,Hand is at Rest
+29.245,20,Hand is at Rest
+29.345,15,Hand is at Rest
+29.446,13,Hand is at Rest
+29.546,10,Hand is at Rest
+29.647,9,Hand is at Rest
+29.748,11,Hand is at Rest
+29.848,11,Hand is at Rest
+29.948,9,Hand is at Rest
+30.049,9,Hand is at Rest
+30.149,10,Hand is at Rest
+30.249,12,Hand is at Rest
+30.351,12,Hand is at Rest
+30.451,14,Hand is at Rest
+30.552,13,Hand is at Rest
+30.652,13,Hand is at Rest
+30.752,12,Hand is at Rest
+30.853,11,Hand is at Rest
+30.954,13,Hand is at Rest
+31.054,14,Hand is at Rest
+31.155,15,Hand is at Rest
+31.255,17,Hand is at Rest
+31.355,21,Hand is at Rest
+31.456,21,Hand is at Rest
+31.557,26,Hand is at Rest
+31.657,34,Hand is at Rest
+31.758,40,Hand is at Rest
+31.858,49,Hand is at Rest
+31.959,55,Hand is Moving
+32.059,61,Hand is Moving
+32.16,72,Hand is Moving
+32.261,83,Hand is Moving
+32.361,88,Hand is Moving
+32.461,103,Hand is Moving
+32.562,129,Hand is Moving
+32.662,135,Hand is Moving
+32.763,150,Hand is Moving
+32.864,174,Hand is Moving
+32.964,204,Hand is Moving
+33.064,235,Hand is Moving
+33.165,262,Hand is Moving
+33.265,287,Hand is Moving
+33.367,309,Hand is Moving
+33.467,307,Hand is Moving
+33.567,285,Hand is Moving
+33.668,274,Hand is Moving
+33.768,256,Hand is Moving
+33.868,227,Hand is Moving
+33.97,190,Hand is Moving
+34.07,153,Hand is Moving
+34.17,114,Hand is Moving
+34.271,75,Hand is Moving
+34.371,43,Hand is at Rest
+34.471,30,Hand is at Rest
+34.572,22,Hand is at Rest
+34.673,20,Hand is at Rest
+34.774,16,Hand is at Rest
+34.874,14,Hand is at Rest
+34.974,12,Hand is at Rest
+35.075,12,Hand is at Rest
+35.175,14,Hand is at Rest
+35.276,13,Hand is at Rest
+35.377,15,Hand is at Rest
+35.477,15,Hand is at Rest
+35.577,15,Hand is at Rest
+35.678,13,Hand is at Rest
+35.778,14,Hand is at Rest
+35.879,14,Hand is at Rest
+35.98,14,Hand is at Rest
+36.08,14,Hand is at Rest
+36.18,13,Hand is at Rest
+36.281,13,Hand is at Rest
+36.381,11,Hand is at Rest
+36.483,11,Hand is at Rest
+36.583,13,Hand is at Rest
+36.683,17,Hand is at Rest
+36.784,19,Hand is at Rest
+36.884,19,Hand is at Rest
+36.984,24,Hand is at Rest
+37.086,27,Hand is at Rest
+37.186,30,Hand is at Rest
+37.286,35,Hand is at Rest
+37.387,41,Hand is at Rest
+37.487,47,Hand is at Rest
+37.587,53,Hand is Moving
+37.689,59,Hand is Moving
+37.789,56,Hand is Moving
+37.89,64,Hand is Moving
+37.99,69,Hand is Moving
+38.09,65,Hand is Moving
+38.191,73,Hand is Moving
+38.292,79,Hand is Moving
+38.392,84,Hand is Moving
+38.493,84,Hand is Moving
+38.593,83,Hand is Moving
+38.693,81,Hand is Moving
+38.794,91,Hand is Moving
+38.894,84,Hand is Moving
+38.995,76,Hand is Moving
+39.096,79,Hand is Moving
+39.196,72,Hand is Moving
+39.297,61,Hand is Moving
+39.397,51,Hand is at Rest
+39.497,46,Hand is at Rest
+39.599,41,Hand is at Rest
+39.699,35,Hand is at Rest
+39.799,25,Hand is at Rest
+39.9,26,Hand is at Rest
+40.0,26,Hand is at Rest
+40.1,21,Hand is at Rest
+40.202,18,Hand is at Rest
+40.302,19,Hand is at Rest
+40.402,18,Hand is at Rest
+40.503,17,Hand is at Rest
+40.603,14,Hand is at Rest
+40.704,12,Hand is at Rest
+40.805,12,Hand is at Rest
+40.905,9,Hand is at Rest
+41.006,9,Hand is at Rest
+41.106,8,Hand is at Rest
+41.206,8,Hand is at Rest
+41.307,7,Hand is at Rest
+41.408,7,Hand is at Rest
+41.508,7,Hand is at Rest
+41.609,9,Hand is at Rest
+41.709,10,Hand is at Rest
+41.809,12,Hand is at Rest
+41.91,13,Hand is at Rest
+42.011,12,Hand is at Rest
+42.112,12,Hand is at Rest
+42.212,15,Hand is at Rest
+42.312,15,Hand is at Rest
+42.413,19,Hand is at Rest
+42.513,23,Hand is at Rest
+42.613,27,Hand is at Rest
+42.715,30,Hand is at Rest
+42.815,33,Hand is at Rest
+42.915,40,Hand is at Rest
+43.016,59,Hand is Moving
+43.116,69,Hand is Moving
+43.216,82,Hand is Moving
+43.318,83,Hand is Moving
+43.418,87,Hand is Moving
+43.518,99,Hand is Moving
+43.619,111,Hand is Moving
+43.719,126,Hand is Moving
+43.82,139,Hand is Moving
+43.921,148,Hand is Moving
+44.021,141,Hand is Moving
+44.122,139,Hand is Moving
+44.222,127,Hand is Moving
+44.322,129,Hand is Moving
+44.423,123,Hand is Moving
+44.524,109,Hand is Moving
+44.624,94,Hand is Moving
+44.725,78,Hand is Moving
+44.825,63,Hand is Moving
+44.925,46,Hand is at Rest
+45.026,34,Hand is at Rest
+45.127,26,Hand is at Rest
+45.228,23,Hand is at Rest
+45.328,20,Hand is at Rest
+45.428,18,Hand is at Rest
+45.529,16,Hand is at Rest
+45.629,12,Hand is at Rest
+45.73,9,Hand is at Rest
+45.831,7,Hand is at Rest
+45.931,6,Hand is at Rest
+46.031,5,Hand is at Rest
+46.132,5,Hand is at Rest
+46.232,5,Hand is at Rest
+46.333,5,Hand is at Rest
+46.434,5,Hand is at Rest
+46.534,5,Hand is at Rest
+46.635,5,Hand is at Rest
+46.735,6,Hand is at Rest
+46.835,8,Hand is at Rest
+46.936,8,Hand is at Rest
+47.037,11,Hand is at Rest
+47.137,11,Hand is at Rest
+47.238,15,Hand is at Rest
+47.338,16,Hand is at Rest
+47.438,19,Hand is at Rest
+47.539,22,Hand is at Rest
+47.64,30,Hand is at Rest
+47.74,34,Hand is at Rest
+47.841,43,Hand is at Rest
+47.941,50,Hand is at Rest
+48.041,58,Hand is Moving
+48.142,70,Hand is Moving
+48.243,88,Hand is Moving
+48.344,99,Hand is Moving
+48.444,94,Hand is Moving
+48.544,106,Hand is Moving
+48.645,118,Hand is Moving
+48.745,133,Hand is Moving
+48.846,142,Hand is Moving
+48.947,156,Hand is Moving
+49.047,168,Hand is Moving
+49.147,172,Hand is Moving
+49.248,159,Hand is Moving
+49.348,147,Hand is Moving
+49.449,151,Hand is Moving
+49.55,138,Hand is Moving
+49.65,119,Hand is Moving
+49.751,101,Hand is Moving
+49.851,83,Hand is Moving
+49.951,61,Hand is Moving
+50.053,40,Hand is at Rest
+50.153,25,Hand is at Rest
+50.253,17,Hand is at Rest
+50.354,19,Hand is at Rest
+50.454,15,Hand is at Rest
+50.554,14,Hand is at Rest
+50.656,14,Hand is at Rest
+50.756,11,Hand is at Rest
+50.856,12,Hand is at Rest
+50.957,11,Hand is at Rest
+51.057,12,Hand is at Rest
+51.158,11,Hand is at Rest
+51.259,12,Hand is at Rest
+51.359,10,Hand is at Rest
+51.46,10,Hand is at Rest
+51.56,10,Hand is at Rest
+51.66,9,Hand is at Rest
+51.761,10,Hand is at Rest
+51.861,9,Hand is at Rest
+51.962,9,Hand is at Rest
+52.063,8,Hand is at Rest
+52.163,13,Hand is at Rest
+52.263,15,Hand is at Rest
+52.364,15,Hand is at Rest
+52.464,20,Hand is at Rest
+52.566,23,Hand is at Rest
+52.666,24,Hand is at Rest
+52.766,29,Hand is at Rest
+52.867,34,Hand is at Rest
+52.967,36,Hand is at Rest
+53.067,40,Hand is at Rest
+53.169,45,Hand is at Rest
+53.269,46,Hand is at Rest
+53.369,52,Hand is at Rest
+53.47,70,Hand is Moving
+53.57,77,Hand is Moving
+53.67,102,Hand is Moving
+53.772,114,Hand is Moving
+53.872,117,Hand is Moving
+53.972,137,Hand is Moving
+54.073,158,Hand is Moving
+54.173,171,Hand is Moving
+54.274,192,Hand is Moving
+54.375,211,Hand is Moving
+54.475,213,Hand is Moving
+54.576,210,Hand is Moving
+54.676,189,Hand is Moving
+54.776,175,Hand is Moving
+54.877,169,Hand is Moving
+54.977,152,Hand is Moving
+55.078,130,Hand is Moving
+55.179,109,Hand is Moving
+55.279,87,Hand is Moving
+55.379,64,Hand is Moving
+55.48,39,Hand is at Rest
+55.58,33,Hand is at Rest
+55.682,28,Hand is at Rest
+55.782,26,Hand is at Rest
+55.882,21,Hand is at Rest
+55.983,19,Hand is at Rest
+56.083,15,Hand is at Rest
+56.183,13,Hand is at Rest
+56.285,10,Hand is at Rest
+56.385,9,Hand is at Rest
+56.485,8,Hand is at Rest
+56.586,7,Hand is at Rest
+56.686,8,Hand is at Rest
+56.786,7,Hand is at Rest
+56.888,7,Hand is at Rest
+56.988,8,Hand is at Rest
+57.089,9,Hand is at Rest
+57.189,9,Hand is at Rest
+57.289,9,Hand is at Rest
+57.39,9,Hand is at Rest
+57.491,13,Hand is at Rest
+57.591,20,Hand is at Rest
+57.692,26,Hand is at Rest
+57.792,28,Hand is at Rest
+57.892,33,Hand is at Rest
+57.993,38,Hand is at Rest
+58.094,41,Hand is at Rest
+58.194,48,Hand is at Rest
+58.295,55,Hand is Moving
+58.395,66,Hand is Moving
+58.496,75,Hand is Moving
+58.596,82,Hand is Moving
+58.697,85,Hand is Moving
+58.798,97,Hand is Moving
+58.898,104,Hand is Moving
+58.998,114,Hand is Moving
+59.099,124,Hand is Moving
+59.199,140,Hand is Moving
+59.299,157,Hand is Moving
+59.401,173,Hand is Moving
+59.501,185,Hand is Moving
+59.601,194,Hand is Moving
+59.702,212,Hand is Moving
+59.802,214,Hand is Moving
+59.902,210,Hand is Moving
+60.004,199,Hand is Moving
+60.104,192,Hand is Moving
+60.205,175,Hand is Moving
+60.305,159,Hand is Moving
+60.405,134,Hand is Moving
+60.506,110,Hand is Moving
+60.607,88,Hand is Moving
+60.707,59,Hand is Moving
+60.808,44,Hand is at Rest
+60.908,36,Hand is at Rest
+61.008,30,Hand is at Rest
+61.109,25,Hand is at Rest
+61.21,18,Hand is at Rest
+61.31,11,Hand is at Rest
+61.411,9,Hand is at Rest
+61.511,8,Hand is at Rest
+61.612,10,Hand is at Rest
+61.712,11,Hand is at Rest
+61.813,10,Hand is at Rest
+61.914,10,Hand is at Rest
+62.014,12,Hand is at Rest
+62.114,12,Hand is at Rest
+62.215,15,Hand is at Rest
+62.315,18,Hand is at Rest
+62.416,19,Hand is at Rest
+62.517,21,Hand is at Rest
+62.617,25,Hand is at Rest
+62.717,28,Hand is at Rest
+62.818,34,Hand is at Rest
+62.918,39,Hand is at Rest
+63.02,52,Hand is at Rest
+63.12,64,Hand is Moving
+63.22,79,Hand is Moving
+63.321,94,Hand is Moving
+63.421,115,Hand is Moving
+63.521,143,Hand is Moving
+63.623,147,Hand is Moving
+63.723,162,Hand is Moving
+63.823,178,Hand is Moving
+63.924,177,Hand is Moving
+64.024,184,Hand is Moving
+64.124,196,Hand is Moving
+64.226,210,Hand is Moving
+64.326,223,Hand is Moving
+64.427,234,Hand is Moving
+64.527,239,Hand is Moving
+64.627,252,Hand is Moving
+64.728,248,Hand is Moving
+64.828,236,Hand is Moving
+64.929,238,Hand is Moving
+65.03,223,Hand is Moving
+65.13,203,Hand is Moving
+65.23,175,Hand is Moving
+65.331,145,Hand is Moving
+65.431,113,Hand is Moving
+65.532,79,Hand is Moving
+65.633,56,Hand is Moving
+65.733,44,Hand is at Rest
+65.833,37,Hand is at Rest
+65.934,31,Hand is at Rest
+66.034,26,Hand is at Rest
+66.136,23,Hand is at Rest
+66.236,22,Hand is at Rest
+66.336,20,Hand is at Rest
+66.437,19,Hand is at Rest
